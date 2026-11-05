@@ -14,3 +14,7 @@
 .masthead-o img{left:33%}.dish-option strong{font-weight:500;color:var(--ink);white-space:nowrap;margin-left:5px}
 .kitchen-feature::after{content:'';position:absolute;inset:0;pointer-events:none;background:linear-gradient(0deg,rgba(30,10,13,.78),rgba(30,10,13,.48) 55%,transparent)}.kitchen-feature figure img{filter:none}.kitchen-caption{z-index:1}
 .poster-hero :focus-visible,.bodega-story :focus-visible,.footer :focus-visible,.reservation-panel :focus-visible,.small-cta :focus-visible{outline-color:var(--paper)}.glass-filter{min-height:44px}
+.mobile-menu-index{display:none}
+@media(max-width:767px){.mobile-menu-index{display:flex;align-items:center;justify-content:center;position:fixed;bottom:0;left:0;width:50%;min-height:48px;background:var(--paper);color:var(--ink);border-top:1px solid var(--ink);font-size:12px;z-index:16}.mobile-menu-index~.mobile-book{left:50%;width:50%}.menu-controls{scroll-margin-top:12px}}
+@media print{.mobile-menu-index{display:none!important}}
+@media(max-width:767px){.menu-cover h1{font-size:clamp(46px,15vw,95px);white-space:nowrap}}

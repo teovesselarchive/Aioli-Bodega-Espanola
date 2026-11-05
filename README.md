@@ -25,7 +25,7 @@ menu_data.py validates the data; it does not overwrite it. build.py uses Pythonâ
 ## Pages and interactions
 
 - Home: original Aioli masthead/ceramic composition, real dishes, six menu paths and visiting information.
-- Menu: 343 sheet-specific entries in 52 groups, six primary sections, two food options, live accent-insensitive search, category narrowing, glass/bottle prices, by-the-glass filter, clear/empty states, URL category links and print selection.
+- Menu: 343 sheet-specific entries in 52 groups, six primary sections, two food options, live accent-insensitive search, category narrowing, glass/bottle prices, by-the-glass filter, clear/empty states, URL category links print selection and a persistent mobile Menu sections control.
 - Bodega: all ten original photos, keyboard-accessible gallery, previous/next, Escape and focus restoration.
 - Visit: real OpenTable booking link, hours, telephone, directions and sister venues.
 - Custom 404 page.

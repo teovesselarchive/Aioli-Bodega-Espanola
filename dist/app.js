@@ -78,6 +78,11 @@
     document.querySelector('.reset-menu').addEventListener('click', () => {
       category = 'all'; menuSearch.value = ''; previousQuery=''; glass.checked = false; history.replaceState(null, '', '#all'); apply(); menuSearch.focus();
     });
+    document.querySelector('.mobile-menu-index')?.addEventListener('click', event => {
+      event.preventDefault();
+      document.querySelector('#menu-controls').scrollIntoView({behavior:'instant',block:'start'});
+      document.querySelector('[data-category="' + category + '"]').focus({preventScroll:true});
+    });
     document.querySelector('.print-menu').addEventListener('click', () => window.print());
     addEventListener('hashchange', fromHash);
     fromHash();

@@ -1,17 +1,15 @@
-# Verification
+# Verification — second design
 
 Checked November 4, 2026.
 
-- Home, menu, gallery and visit pages checked in the browser at widths 320, 390, 768, 1024 and 1440px: no document overflow or broken loaded images.
-- Desktop and mobile visual review, followed by a single batch of refinements: cleared the hero caption from the wine-photo inset and removed photo captions that collided with the large display lettering.
-- All homepage images verified loaded before saving final desktop and mobile previews.
-- Menu search for “paella” returns exactly four lunch paellas; nonsense query produces the empty state; reset restores all 67 items. Category filters and direct category links checked.
-- Mobile menu opens, closes with Escape, and returns focus to the Menu button.
-- Gallery next control advances to the next photo; Escape closes the dialog and restores focus to the originating photo link. Ten original photos remain available. Photo links also open images without JavaScript.
-- OpenTable reservation link verified in the browser as “Reservation at Aioli Bodega Espanola”, restaurant ID 58273. No reservation submitted.
-- 136 local references checked across all five generated pages, all seven original menu sheets present, root/dist HTML and CSS/JS parity verified.
-- Browser error log contained no errors.
-- Contrast ratios calculated from the actual palette; visible focus, keyboard controls and reduced-motion overrides reviewed. No automated accessibility certification or Lighthouse performance score is claimed.
-- Responsive WebP image variants, explicit image dimensions, eager hero imagery and lazy below-fold images; locally served typefaces.
+- Four primary pages checked at 320, 390, 768, 1024 and 1440px: no document horizontal overflow. One h1 per page. The full 343-item selection also has no overflow at 320px. All loaded source images resolved. The closed lightbox intentionally has an empty image until opened.
+- Desktop/mobile visual review of the full homepage and menu. Increased menu reading sizes; corrected the ceramic crop inside the O; strengthened contrast over the grill photograph and focus indicators on colored sections.
+- All 343 HTML menu entries match the validated data. All 52 groups have source-sheet mappings; all item IDs are unique. Seven original menu sheets retained. Both food options render with their correct total/additional pricing.
+- Category, search and wine filtering tested in the browser: wine 123 selections; by-the-glass 15; paella search returns four lunch paellas; impossible query shows empty state; reset restores 343 selections. Search includes group titles, ingredients, grape, region and vintage and ignores accents. Direct category hashes work.
+- Mobile navigation opens, Escape closes it and focus returns to the Menu button. Gallery next changes 1/10 to 2/10; ArrowLeft returns to 1/10; Escape closes the dialog and restores focus to the originating link. No console errors in the tested browser session.
+- Static checks pass: 132 local references across five pages, no duplicate IDs, original menu files present, noindex metadata and root/dist HTML/CSS/JS/data parity. Browser JavaScript loaded and ran without parse errors. Core content and links are in HTML without JavaScript; controls hide in the no-script fallback.
+- Print stylesheet preserves the current selection and removes site navigation. Reduced-motion CSS disables animation/transitions and smooth scrolling. No automated accessibility certification or performance score is claimed.
+- Responsive WebP variants, explicit image dimensions, eager hero and lazy lower-page images, self-hosted fonts. No trackers or external runtime dependencies.
+- OpenTable destination remains restaurant ID 58273, verified in the first pass. No reservation submitted.
 
-Known source-content issues requiring restaurant confirmation before production: printed-menu closing times and some drink prices disagree with other source sheets. The homepage hours and lunch cocktail prices are used; originals are preserved for review.
+Source limitations are explicit in docs/menu-transcription.md: three prices absent or illegible display Ask your server; menu-specific price/ingredient variants are preserved; homepage opening times are used where print sheets disagree. Dietary labels are not inferred from inconsistent source markers.

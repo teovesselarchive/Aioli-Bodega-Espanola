@@ -27,7 +27,7 @@ for p in (ROOT/'dist').rglob('*.html'):
   count+=1
 assert not errors,'\n'.join(errors)
 assert len(list((ROOT/'dist/assets/originals').glob('*menu*.png')))==7
-assert sum(len(g['items']) for g in json.loads((ROOT/'data/menu.json').read_text()))==67
-for f in ['app.js','styles.css']:
+assert sum(len(g['items']) for g in json.loads((ROOT/'data/menu.json').read_text()))==343
+for f in ['app.js','styles.css','data/menu.json']:
  assert (ROOT/f).read_bytes()==(ROOT/'dist'/f).read_bytes()
-print(f'PASS: {count} local references, five pages, seven menu sheets, 67 readable entries, root/dist parity.')
+print(f'PASS: {count} local references, five pages, seven menu sheets, 343 readable entries, root/dist parity.')

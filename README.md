@@ -1,16 +1,18 @@
 # Aioli Bodega Española
 
-A complete restaurant demo redesign for Vessel Archive, using Aioli’s real logo, food photography, Fall 2026 menus and booking destination.
+Vessel Archive’s restaurant redesign: a bold Spanish bodega identity and a complete, functioning food and drinks menu. Uses Aioli’s real logo, food/room photography, seven Fall 2026 menu sheets and verified OpenTable destination.
 
-## Preview
+## Run locally
 
 ```sh
 python3 -m http.server 8080
 ```
 
-Open http://localhost:8080. The repository root and `dist/` both contain the ready-to-host site. No packages, API keys, accounts or paid services are required to run it.
+Open http://localhost:8080. Both the repository root and dist contain the ready-to-host site. No packages, accounts, API keys or paid services are needed.
 
 ## Edit and build
+
+Edit data/menu.json for menu content, scripts/build.py for page structure/content, styles.css for the visual system and app.js for interactions. Then:
 
 ```sh
 python3 scripts/menu_data.py
@@ -18,40 +20,28 @@ python3 scripts/build.py
 python3 scripts/check.py
 ```
 
-- `scripts/build.py`: shared page layout and content.
-- `scripts/menu_data.py`: 67 text menu entries transcribed from the current restaurant menu images.
-- `styles.css`: responsive styling; `app.js`: navigation, menu filters/search, gallery.
-- `assets/originals/`: unchanged source photos, logo and all seven menu sheets.
-- `assets/images/`: optimized WebP images.
-- `assets/fonts/`: self-hosted Bodoni Moda and DM Sans with their licenses.
-- `asset-sources.json`: original asset URLs.
+menu_data.py validates the data; it does not overwrite it. build.py uses Python’s standard library. Image assets are already prepared; Pillow is unnecessary for building or serving.
 
-The build uses Python’s standard library. Image assets are already prepared; Pillow is not needed to build or serve the site. Source photos were only resized and encoded as WebP, with display cropping in CSS. No generated food photos or image enhancement is presented as real photography.
+## Pages and interactions
 
-## Pages
+- Home: original Aioli masthead/ceramic composition, real dishes, six menu paths and visiting information.
+- Menu: 343 sheet-specific entries in 52 groups, six primary sections, two food options, live accent-insensitive search, category narrowing, glass/bottle prices, by-the-glass filter, clear/empty states, URL category links and print selection.
+- Bodega: all ten original photos, keyboard-accessible gallery, previous/next, Escape and focus restoration.
+- Visit: real OpenTable booking link, hours, telephone, directions and sister venues.
+- Custom 404 page.
 
-- `/`: homepage, menu paths, introduction and visiting information.
-- `/menu/`: seasonal, lunch, dessert and drinks categories; accent-insensitive search; no-results recovery; complete original menu sheets.
-- `/bodega/`: all ten original photos in a keyboard-accessible gallery.
-- `/visit/`: reservations, hours, directions, contact and sister venues.
-- `/404.html`: custom missing-page page.
+Starting a fresh search searches all sections. Select a category afterwards to narrow results. The full menu remains HTML-readable without JavaScript, and the original sheets remain available. Original anchors #content, #aioli-menu, #contact-aioli and #aioli-contact are retained. Relative links support a GitHub Pages repository path.
 
-The original homepage anchors `#content`, `#aioli-menu`, `#contact-aioli` and `#aioli-contact` remain. Relative links support GitHub Pages repository subpaths. Core content, links and the complete menu are available without JavaScript.
+## Assets and hosting
 
-## GitHub Pages
+assets/originals contains unchanged source photos, logo and all seven menus. assets/images contains responsive WebP versions; cropping is done in CSS. assets/fonts contains locally served Bricolage Grotesque, Barlow Condensed, Bodoni Moda and DM Sans with licenses. asset-sources.json records original URLs. No generated food photography is used.
 
-Destination: `teovesselarchive/Aioli-Bodega-Espanola`. Choose **Settings → Pages → Deploy from a branch → main → /(root)**. The root `index.html` and `.nojekyll` support direct branch publishing. A source ZIP can also be deployed to any static host by uploading `dist/`.
+GitHub: teovesselarchive/Aioli-Bodega-Espanola. The root index.html and .nojekyll support branch hosting. dist can be uploaded to any static host. The ZIP includes portable source and the generated website.
 
-## Content notes before a production launch
+## Content notes
 
-This is a demo and remains `noindex,nofollow`, with indexing disallowed in `robots.txt`.
+The demo remains noindex/nofollow and robots.txt disallows indexing. Restaurant confirmation is needed for three unclear/missing wine prices and differences between printed hours and the homepage. The site displays Ask your server for those prices and uses the official homepage’s hours. Lunch/bar and dessert/bar versions retain their respective printed prices and descriptions. No separate dinner menu was supplied; none is invented. No dietary guarantees are inferred from contradictory source markers.
 
-- The homepage/contact block says Monday–Saturday 11am–10pm and Sunday 3pm–9pm. The printed menus contain conflicting closing times. This demo uses the homepage hours; confirm with the restaurant before production.
-- The text menu preserves the listed prices for seasonal food, lunch, dessert and lunch cocktails. Printed wine and dessert sheets contain some differing drink prices. Complete originals remain available as the reference; confirm prices with the business.
-- The current source has a Lunch menu but no separate Dinner menu. This demo does not invent one.
-- Reservation links go to the restaurant’s real OpenTable ID 58273, verified in the source widget and on OpenTable. No booking is completed inside the demo.
-- Phone, directions and social links are real. No invented contact form, checkout, customer reviews, awards or backend.
-- The original Grand Wine Bar links contained spelling errors. The sister-venue links now go to the verified official `thegrandwinebar.com` and `brasseriedumonde.com`.
-- Original brand, photography and menus remain the property of their respective owners. Confirm permission before a client production launch.
+OpenTable restaurant ID 58273 was verified against the live source widget and booking destination. Reservations happen on OpenTable; this demo does not submit a booking. Phone, directions, social and sister-venue links are real. No invented contact form, checkout, testimonials, awards or backend. Original materials remain their owners’ property.
 
-See `DESIGN.md` for the visual research and design decisions, and `QA.md` for completed checks.
+See DESIGN.md, QA.md, docs/award-research.md and docs/menu-transcription.md for rationale, checks and source discrepancies.

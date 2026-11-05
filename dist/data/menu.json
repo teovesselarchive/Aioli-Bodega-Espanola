@@ -1,420 +1,3759 @@
 [
   {
+    "id": "seasonal-chef-pablo-s-seasonal-selections",
+    "section": "seasonal",
     "category": "seasonal",
     "title": "Chef Pablo’s seasonal selections",
     "note": "Fall 2026",
+    "source": "aioli-chefs-choice-fall-2026-menu.png",
+    "menu": "food",
+    "canonical": true,
     "items": [
       {
         "name": "Ensalada de Tomate",
         "price": "14.95",
-        "description": "Organic heirloom tomatoes, basil vinaigrette, goat cheese, dry black olives."
+        "description": "Organic heirloom tomatoes, basil vinaigrette, goat cheese, dry black olives.",
+        "id": "seasonal-chef-pablo-s-seasonal-selections-1",
+        "source": "aioli-chefs-choice-fall-2026-menu.png"
       },
       {
         "name": "Ensalada Sandía",
         "price": "14.95",
-        "description": "Fresh watermelon, goat cheese, pomegranate vinaigrette."
+        "description": "Fresh watermelon, goat cheese, pomegranate vinaigrette.",
+        "id": "seasonal-chef-pablo-s-seasonal-selections-2",
+        "source": "aioli-chefs-choice-fall-2026-menu.png"
       },
       {
         "name": "Palta Rellena",
         "price": "12.95",
-        "description": "Stuffed avocados with bay shrimp and gravlax, honey citrus surprise."
+        "description": "Stuffed avocados with bay shrimp and gravlax, honey citrus surprise.",
+        "id": "seasonal-chef-pablo-s-seasonal-selections-3",
+        "source": "aioli-chefs-choice-fall-2026-menu.png",
+        "printed_markers": [
+          "VG"
+        ],
+        "transcription_note": "The source prints VG despite listing shrimp and gravlax. Do not label vegetarian or vegan."
       },
       {
         "name": "Colas de Bruselas",
         "price": "10.00",
-        "description": "Brussels sprouts, onions, balsamic reduction and toasted almonds."
+        "description": "Brussels sprouts, onions, balsamic reduction and toasted almonds.",
+        "id": "seasonal-chef-pablo-s-seasonal-selections-4",
+        "source": "aioli-chefs-choice-fall-2026-menu.png",
+        "source_name": "Colas de Brusseles",
+        "printed_markers": [
+          "VG"
+        ]
       },
       {
         "name": "Espárrago en Romesco",
         "price": "12.95",
-        "description": "Organic grilled asparagus, roasted red bells, garlic, toasted almonds."
+        "description": "Organic grilled asparagus, roasted red bells, garlic, toasted almonds.",
+        "id": "seasonal-chef-pablo-s-seasonal-selections-5",
+        "source": "aioli-chefs-choice-fall-2026-menu.png",
+        "printed_markers": [
+          "VG"
+        ]
       },
       {
-        "name": "Croquetas al Gusto",
+        "name": "Croquitas al Gusto",
         "price": "12.95",
-        "description": "Creamy fried fritters of béchamel with a choice of chorizo, mushroom or serrano ham."
+        "description": "Creamy fried fritters of béchamel with a choice of chorizo, mushroom or serrano ham.",
+        "id": "seasonal-chef-pablo-s-seasonal-selections-6",
+        "source": "aioli-chefs-choice-fall-2026-menu.png"
       },
       {
         "name": "Pinchitos Exquisitos · Lamb",
         "price": "12.95",
-        "description": "Marinated and seared lamb brochette with paprika, mint and caraway."
+        "description": "Marinated and seared lamb brochette with paprika, mint and caraway.",
+        "id": "seasonal-chef-pablo-s-seasonal-selections-7",
+        "source": "aioli-chefs-choice-fall-2026-menu.png"
       },
       {
         "name": "Pinchitos Exquisitos · Shrimp",
         "price": "12.95",
-        "description": "Marinated and seared shrimp brochette with bread croutons, mint and ginger."
+        "description": "Marinated and seared shrimp brochette with bread croutons, mint and ginger.",
+        "id": "seasonal-chef-pablo-s-seasonal-selections-8",
+        "source": "aioli-chefs-choice-fall-2026-menu.png"
       },
       {
         "name": "Cazuelita de Marisco",
         "price": "21.95",
-        "description": "Seafood medley, shrimp, scallops and cuttlefish, white beans, tomato and saffron fumet."
+        "description": "Seafood medley, shrimp, scallops and cuttlefish, white beans, tomato and saffron fumet.",
+        "id": "seasonal-chef-pablo-s-seasonal-selections-9",
+        "source": "aioli-chefs-choice-fall-2026-menu.png"
       },
       {
         "name": "Risotto Piemontese",
         "price": "49.95",
-        "description": "Creamy risotto with taleggio, grana padano and gorgonzola dolcelatte; seasonal mushrooms. Served for two."
+        "description": "Creamy risotto with taleggio, grana padano and gorgonzola dolcelatte; seasonal mushrooms. Served for two.",
+        "id": "seasonal-chef-pablo-s-seasonal-selections-10",
+        "source": "aioli-chefs-choice-fall-2026-menu.png"
       },
       {
         "name": "Reda’s Pepper Steak",
         "price": "49.95",
-        "description": "16 oz prime New York steak, red wine, demi and peppercorns, potato onion casserole."
+        "description": "16 oz prime New York steak, red wine, demi and peppercorns, potato onion casserole.",
+        "id": "seasonal-chef-pablo-s-seasonal-selections-11",
+        "source": "aioli-chefs-choice-fall-2026-menu.png"
       },
       {
         "name": "Panna Cotta",
         "price": "10.95",
-        "description": "Silky gelatin classic with sweetened cream and raspberry coulis."
+        "description": "Silky gelatin classic with sweetened cream and raspberry coulis.",
+        "id": "seasonal-chef-pablo-s-seasonal-selections-12",
+        "source": "aioli-chefs-choice-fall-2026-menu.png"
       }
     ]
   },
   {
+    "id": "lunch-sopas-y-ensaladas",
+    "section": "lunch",
     "category": "lunch",
     "title": "Sopas y ensaladas",
     "note": "",
+    "source": "aioli-lunch-fall-2026-menu-p1.png",
+    "menu": "food",
+    "canonical": true,
     "items": [
       {
         "name": "Sopa del Día",
         "price": "Ask us",
-        "description": "Soup of the day, seasonal fruits."
+        "description": "Soup of the day, seasonal fruits.",
+        "id": "lunch-sopas-y-ensaladas-1",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "source_price": "A.Q."
       },
       {
         "name": "Ensalada de Elsy",
         "price": "12.95",
-        "description": "Arugula, celery, radicchio, cucumber, onion, black olives, citrus vinaigrette."
+        "description": "Arugula, celery, radicchio, cucumber, onion, black olives, citrus vinaigrette.",
+        "id": "lunch-sopas-y-ensaladas-2",
+        "source": "aioli-lunch-fall-2026-menu-p1.png"
       },
       {
         "name": "Ensalada con Pollo",
         "price": "17.90",
-        "description": "Chicken, spinach, green beans, carrots, beets, potatoes, eggs, olives, house vinaigrette: EVOO, Dijon, sherry vinegar, onions, anchovies."
+        "description": "Chicken, spinach, green beans, carrots, beets, potatoes, eggs, olives, house vinaigrette: EVOO, Dijon, sherry vinegar, onions, anchovies.",
+        "id": "lunch-sopas-y-ensaladas-3",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "source_price": "17.9"
       }
+    ],
+    "source_notes": [
+      "Gratuity of 20% is included on all parties of 6 or more.",
+      "Our kitchen cooks exclusively with extra virgin olive oil (EVO).",
+      "(V) — vegan items; some items can be prepared vegan.",
+      "(G) — these items contain gluten; some can be prepared gluten free.",
+      "(*) — these items contain or may contain raw or undercooked ingredients.",
+      "Consuming raw or undercooked meat or eggs may increase chance of foodborne illness."
     ]
   },
   {
+    "id": "lunch-bocadillos-con-pan-coca",
+    "section": "lunch",
     "category": "lunch",
     "title": "Bocadillos con pan coca",
     "note": "On a grilled flatbread from Mallorca.",
+    "source": "aioli-lunch-fall-2026-menu-p1.png",
+    "menu": "food",
+    "canonical": true,
     "items": [
       {
         "name": "Bocadillo del Día",
         "price": "Ask us",
-        "description": "Chef’s special bocadillo of the day, served with a rotating side."
+        "description": "Chef’s special bocadillo of the day, served with a rotating side.",
+        "id": "lunch-bocadillos-con-pan-coca-1",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "source_price": "A.Q."
       }
+    ],
+    "source_notes": [
+      "Gratuity of 20% is included on all parties of 6 or more.",
+      "Our kitchen cooks exclusively with extra virgin olive oil (EVO).",
+      "(V) — vegan items; some items can be prepared vegan.",
+      "(G) — these items contain gluten; some can be prepared gluten free.",
+      "(*) — these items contain or may contain raw or undercooked ingredients.",
+      "Consuming raw or undercooked meat or eggs may increase chance of foodborne illness."
     ]
   },
   {
+    "id": "lunch-tapas-fr-as",
+    "section": "lunch",
     "category": "lunch",
     "title": "Tapas frías",
     "note": "",
+    "source": "aioli-lunch-fall-2026-menu-p1.png",
+    "menu": "food",
+    "canonical": true,
     "items": [
       {
         "name": "Tortilla Tres Colores",
         "price": "6.95",
-        "description": "Spanish torte with egg, onion, potato, bell pepper and aioli."
+        "description": "Spanish torte with egg, onion, potato, bell pepper and aioli.",
+        "id": "lunch-tapas-fr-as-1",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "printed_markers": [
+          "*"
+        ]
       },
       {
         "name": "Tartar",
         "price": "Ask us",
-        "description": "Fish of the day, EVOO, red onions, capers, a touch of garlic, served with pan tostado and arugula."
+        "description": "Fish of the day, EVOO, red onions, capers, a touch of garlic, served with pan tostado and arugula.",
+        "id": "lunch-tapas-fr-as-2",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "source_price": "A.Q.",
+        "printed_markers": [
+          "G",
+          "*"
+        ]
       },
       {
         "name": "Charcuterie y Queso Manchego",
         "price": "14.95",
-        "description": "Pamplona and Soria chorizos, jamón serrano, cave-aged manchego and house-cured olives."
+        "description": "Pamplona and Soria chorizos, jamón serrano, cave-aged manchego and house-cured olives.",
+        "id": "lunch-tapas-fr-as-3",
+        "source": "aioli-lunch-fall-2026-menu-p1.png"
       },
       {
         "name": "Pa amb Tomaquet",
         "price": "6.95",
-        "description": "Catalan bruschetta with EVOO and tomato. With cured jamón serrano: 12.95."
+        "description": "Spanish bruschetta with EVOO and tomato.",
+        "id": "lunch-tapas-fr-as-4",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "options": [
+          {
+            "name": "With cured jamón serrano",
+            "price": "12.95"
+          }
+        ],
+        "printed_markers": [
+          "V",
+          "G"
+        ]
       }
+    ],
+    "source_notes": [
+      "Gratuity of 20% is included on all parties of 6 or more.",
+      "Our kitchen cooks exclusively with extra virgin olive oil (EVO).",
+      "(V) — vegan items; some items can be prepared vegan.",
+      "(G) — these items contain gluten; some can be prepared gluten free.",
+      "(*) — these items contain or may contain raw or undercooked ingredients.",
+      "Consuming raw or undercooked meat or eggs may increase chance of foodborne illness."
     ]
   },
   {
+    "id": "lunch-tapas-calientes",
+    "section": "lunch",
     "category": "lunch",
     "title": "Tapas calientes",
     "note": "",
+    "source": "aioli-lunch-fall-2026-menu-p1.png",
+    "menu": "food",
+    "canonical": true,
     "items": [
       {
         "name": "Mejillones Aioli",
         "price": "21.95",
-        "description": "Mediterranean mussels, garlic, sherry, cream."
+        "description": "Mediterranean mussels, garlic, sherry, cream.",
+        "id": "lunch-tapas-calientes-1",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "printed_markers": [
+          "*"
+        ]
       },
       {
         "name": "Pulpo a la Gallega",
         "price": "16.95",
-        "description": "Octopus in an adobo marinade, scalloped potatoes with pimentón."
+        "description": "Octopus in an adobo marinade, scalloped potatoes with pimentón.",
+        "id": "lunch-tapas-calientes-2",
+        "source": "aioli-lunch-fall-2026-menu-p1.png"
       },
       {
         "name": "Gambas Ajillo",
         "price": "14.95",
-        "description": "Shrimp, garlic and white wine sauce."
+        "description": "Shrimp, garlic and white wine sauce.",
+        "id": "lunch-tapas-calientes-3",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "printed_markers": [
+          "*"
+        ]
       },
       {
         "name": "Gambas a la Parrilla",
         "price": "14.95",
-        "description": "Grilled shrimp in a citrus and cumin avocado salsa fresca."
+        "description": "Grilled shrimp in citrus and cumin, avocado, salsa fresca.",
+        "id": "lunch-tapas-calientes-4",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "printed_markers": [
+          "*"
+        ]
       },
       {
         "name": "Salmón Alcaparado",
         "price": "12.95",
-        "description": "Salmon, white wine, garlic, capers, citrus, mustard."
+        "description": "Salmon, white wine, garlic, capers, citrus, mustard.",
+        "id": "lunch-tapas-calientes-5",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "printed_markers": [
+          "*"
+        ]
       },
       {
         "name": "Portobello de la Moda",
         "price": "12.95",
-        "description": "Portobello mushroom marinated in red wine vinegar, then grilled, topped with goat cheese and EVOO."
+        "description": "North Coast portobello marinated in red wine vinegar, then grilled, topped with goat cheese and EVOO.",
+        "id": "lunch-tapas-calientes-6",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "printed_markers": [
+          "V"
+        ]
       },
       {
         "name": "Patatas Bravas",
         "price": "8.95",
-        "description": "Roasted potatoes in a spicy tomato sauce with garlic aioli."
+        "description": "Roasted potatoes in a spicy tomato sauce with garlic aioli.",
+        "id": "lunch-tapas-calientes-7",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "printed_markers": [
+          "*"
+        ]
       },
       {
         "name": "Pinchos Morunos",
         "price": "12.50",
-        "description": "Grilled leg of lamb skewers in a red wine bell pepper sauce."
+        "description": "Grilled leg of lamb skewers in a red wine bell pepper sauce.",
+        "id": "lunch-tapas-calientes-8",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "printed_markers": [
+          "*"
+        ]
       },
       {
         "name": "Chorizo al Ajoarriero",
         "price": "12.95",
-        "description": "Grilled chorizo, white beans, Swiss chard."
+        "description": "Grilled chorizo, white beans, Swiss chard.",
+        "id": "lunch-tapas-calientes-9",
+        "source": "aioli-lunch-fall-2026-menu-p1.png"
       }
+    ],
+    "source_notes": [
+      "Gratuity of 20% is included on all parties of 6 or more.",
+      "Our kitchen cooks exclusively with extra virgin olive oil (EVO).",
+      "(V) — vegan items; some items can be prepared vegan.",
+      "(G) — these items contain gluten; some can be prepared gluten free.",
+      "(*) — these items contain or may contain raw or undercooked ingredients.",
+      "Consuming raw or undercooked meat or eggs may increase chance of foodborne illness."
     ]
   },
   {
+    "id": "lunch-pastas",
+    "section": "lunch",
     "category": "lunch",
     "title": "Pastas",
     "note": "",
+    "source": "aioli-lunch-fall-2026-menu-p1.png",
+    "menu": "food",
+    "canonical": true,
     "items": [
       {
         "name": "Ravioles Caseros",
         "price": "21.95",
-        "description": "Housemade ravioli stuffed with herbs and fontina cheese, in a shiitake mushroom sauce."
+        "description": "Housemade ravioli stuffed with herbs and fontina cheese, in a shiitake mushroom sauce.",
+        "id": "lunch-pastas-1",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "printed_markers": [
+          "G"
+        ]
       },
       {
         "name": "Pasta Amatriciana",
         "price": "20.95",
-        "description": "Bucatini in a pancetta tomato sauce, grana padano and bread crumbs."
+        "description": "Bucatini in a pancetta tomato sauce, grana padano and bread crumbs.",
+        "id": "lunch-pastas-2",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "printed_markers": [
+          "G"
+        ]
       },
       {
         "name": "Linguine al Limone",
         "price": "21.95",
-        "description": "Linguine pasta in a citrus herb butter sauce."
+        "description": "Linguine pasta in a citrus herb butter sauce.",
+        "id": "lunch-pastas-3",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "printed_markers": [
+          "G"
+        ]
       }
+    ],
+    "source_notes": [
+      "Gratuity of 20% is included on all parties of 6 or more.",
+      "Our kitchen cooks exclusively with extra virgin olive oil (EVO).",
+      "(V) — vegan items; some items can be prepared vegan.",
+      "(G) — these items contain gluten; some can be prepared gluten free.",
+      "(*) — these items contain or may contain raw or undercooked ingredients.",
+      "Consuming raw or undercooked meat or eggs may increase chance of foodborne illness."
     ]
   },
   {
+    "id": "lunch-las-raciones",
+    "section": "lunch",
     "category": "lunch",
     "title": "Las raciones",
     "note": "",
+    "source": "aioli-lunch-fall-2026-menu-p1.png",
+    "menu": "food",
+    "canonical": true,
     "items": [
       {
         "name": "Zarzuela de Mariscos",
         "price": "32.95",
-        "description": "Opera of seafood in a lightly tomato broth; pan tostado."
+        "description": "Opera of seafood in a light tomato broth, pan tostado.",
+        "id": "lunch-las-raciones-1",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "printed_markers": [
+          "G",
+          "*"
+        ]
       },
       {
         "name": "Paillard de Pollo",
         "price": "22.95",
-        "description": "Grilled pounded chicken breast marinated in citrus, served with patatas bravas."
+        "description": "Grilled pounded chicken breast marinated in citrus, served with patatas bravas.",
+        "id": "lunch-las-raciones-2",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "printed_markers": [
+          "*"
+        ]
       },
       {
         "name": "Parrillada Mixta",
         "price": "34.95",
-        "description": "Grilled chorizo, chicken, two lamb chops, pisto manchego. Two additional chops: 17.95."
+        "description": "Grilled chorizo, chicken, two lamb chops, pisto manchego.",
+        "id": "lunch-las-raciones-3",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "options": [
+          {
+            "name": "Two additional lamb chops",
+            "price": "17.95",
+            "price_type": "add-on"
+          }
+        ]
       },
       {
         "name": "Bisteca Costeña",
         "price": "49.95",
-        "description": "Prime rib-eye finished in a red wine reduction, blue cheese."
+        "description": "Prime rib-eye finished in a red wine reduction, blue cheese.",
+        "id": "lunch-las-raciones-4",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "printed_markers": [
+          "*"
+        ]
       }
+    ],
+    "source_notes": [
+      "Gratuity of 20% is included on all parties of 6 or more.",
+      "Our kitchen cooks exclusively with extra virgin olive oil (EVO).",
+      "(V) — vegan items; some items can be prepared vegan.",
+      "(G) — these items contain gluten; some can be prepared gluten free.",
+      "(*) — these items contain or may contain raw or undercooked ingredients.",
+      "Consuming raw or undercooked meat or eggs may increase chance of foodborne illness."
     ]
   },
   {
+    "id": "lunch-las-paellas",
+    "section": "lunch",
     "category": "lunch",
     "title": "Las paellas",
     "note": "Made to share, for two people. Please allow 45 minutes to prepare.",
+    "source": "aioli-lunch-fall-2026-menu-p1.png",
+    "menu": "food",
+    "canonical": true,
     "items": [
       {
         "name": "Paella Barcelonetta",
         "price": "60.00",
-        "description": "Squid ink rice, heads-on shrimp, bay scallops, cuttlefish sofrito."
+        "description": "Squid ink rice, heads-on shrimp, bay scallops, cuttlefish sofrito.",
+        "id": "lunch-las-paellas-1",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "printed_markers": [
+          "*"
+        ]
       },
       {
         "name": "Paella Valenciana",
         "price": "49.95",
-        "description": "Saffron rice, shrimp, mussels, calamari, chicken thighs, pork spareribs."
+        "description": "Saffron rice, shrimp, mussels, calamari, chicken thighs, pork spareribs.",
+        "id": "lunch-las-paellas-2",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "printed_markers": [
+          "*"
+        ]
       },
       {
         "name": "Paella de Hongos",
         "price": "28.95",
-        "description": "Saffron rice, shiitake and button mushrooms, grated grana padano."
+        "description": "Saffron rice, shiitake and button mushrooms, grated grana padano.",
+        "id": "lunch-las-paellas-3",
+        "source": "aioli-lunch-fall-2026-menu-p1.png"
       },
       {
         "name": "Paella Vegetariana",
         "price": "26.95",
-        "description": "Saffron rice and seasonal vegetables."
+        "description": "Saffron rice and seasonal vegetables.",
+        "id": "lunch-las-paellas-4",
+        "source": "aioli-lunch-fall-2026-menu-p1.png",
+        "printed_markers": [
+          "V"
+        ]
       }
+    ],
+    "source_notes": [
+      "Gratuity of 20% is included on all parties of 6 or more.",
+      "Our kitchen cooks exclusively with extra virgin olive oil (EVO).",
+      "(V) — vegan items; some items can be prepared vegan.",
+      "(G) — these items contain gluten; some can be prepared gluten free.",
+      "(*) — these items contain or may contain raw or undercooked ingredients.",
+      "Consuming raw or undercooked meat or eggs may increase chance of foodborne illness."
     ]
   },
   {
+    "id": "lunch-menu-del-almuerzo",
+    "section": "lunch",
     "category": "lunch",
     "title": "Menu del almuerzo",
     "note": "",
+    "source": "aioli-lunch-fall-2026-menu-p1.png",
+    "menu": "food",
+    "canonical": true,
     "items": [
       {
         "name": "Lunch set",
         "price": "24.00",
-        "description": "Starts with soup and ends with dessert. Choose a main course: fish, pasta or stew."
+        "description": "Starts with soup and ends with dessert. Choose a main course: fish, pasta or stew.",
+        "id": "lunch-menu-del-almuerzo-1",
+        "source": "aioli-lunch-fall-2026-menu-p1.png"
       }
+    ],
+    "source_notes": [
+      "Gratuity of 20% is included on all parties of 6 or more.",
+      "Our kitchen cooks exclusively with extra virgin olive oil (EVO).",
+      "(V) — vegan items; some items can be prepared vegan.",
+      "(G) — these items contain gluten; some can be prepared gluten free.",
+      "(*) — these items contain or may contain raw or undercooked ingredients.",
+      "Consuming raw or undercooked meat or eggs may increase chance of foodborne illness."
     ]
   },
   {
+    "id": "dessert-postres",
+    "section": "dessert",
     "category": "dessert",
     "title": "Postres",
     "note": "",
+    "source": "aioli-dessert-fall-2026-menu-p1.png",
+    "menu": "food",
+    "canonical": true,
     "items": [
       {
         "name": "Crema Catalana con Naranja",
         "price": "8.00",
-        "description": "Classic orange flower crème brûlée."
+        "description": "Classic orange flower crème brûlée.",
+        "id": "dessert-postres-1",
+        "source": "aioli-dessert-fall-2026-menu-p1.png"
       },
       {
         "name": "Pastel Almendras",
         "price": "8.00",
-        "description": "Almond cake with honey and orange flower water."
+        "description": "Almond cake with honey and orange flower water.",
+        "id": "dessert-postres-2",
+        "source": "aioli-dessert-fall-2026-menu-p1.png"
       },
       {
         "name": "Delicia de Frambuesa",
         "price": "10.95",
-        "description": "Chocolate raspberry cake with fresh raspberries."
+        "description": "Chocolate raspberry cake with fresh raspberries.",
+        "id": "dessert-postres-3",
+        "source": "aioli-dessert-fall-2026-menu-p1.png"
       },
       {
         "name": "Chocolate con Acento Francés",
         "price": "8.00",
-        "description": "Chocolate mousse and berries."
+        "description": "Chocolate mousse and berries.",
+        "id": "dessert-postres-4",
+        "source": "aioli-dessert-fall-2026-menu-p1.png"
       },
       {
         "name": "Arroz con Leche",
         "price": "9.00",
-        "description": "Rice pudding with vanilla, finished with caramelized sugar."
+        "description": "Rice pudding with vanilla, finished with caramelized sugar.",
+        "id": "dessert-postres-5",
+        "source": "aioli-dessert-fall-2026-menu-p1.png"
       },
       {
         "name": "Pastel de Chocolate",
         "price": "8.00",
-        "description": "Flourless chocolate lava cake, crème anglaise with mint."
+        "description": "Flourless chocolate lava cake, crème anglaise with mint.",
+        "id": "dessert-postres-6",
+        "source": "aioli-dessert-fall-2026-menu-p1.png"
       },
       {
         "name": "Panna Cotta",
         "price": "10.95",
-        "description": "Silky gelatin classic with sweetened cream and raspberry coulis."
+        "description": "Silky gelatin classic with sweetened cream and raspberry coulis.",
+        "id": "dessert-postres-7",
+        "source": "aioli-dessert-fall-2026-menu-p1.png"
       },
       {
         "name": "Flan",
         "price": "8.00",
-        "description": "Crème caramel."
+        "description": "Crème caramel.",
+        "id": "dessert-postres-8",
+        "source": "aioli-dessert-fall-2026-menu-p1.png"
       },
       {
-        "name": "Marscapone Limon Mousse",
+        "name": "Mascarpone Limón Mousse",
         "price": "12.00",
-        "description": "A dash of limoncello topped with a fresh iced amaretti."
+        "description": "A dash of limoncello topped with a fresh iced amaretti.",
+        "id": "dessert-postres-9",
+        "source": "aioli-dessert-fall-2026-menu-p1.png",
+        "source_name": "Marscopone Limon Mousse"
       }
     ]
   },
   {
+    "id": "dessert-caf",
+    "section": "dessert",
     "category": "dessert",
     "title": "Café",
     "note": "",
+    "source": "aioli-dessert-fall-2026-menu-p1.png",
+    "menu": "food",
+    "canonical": true,
     "items": [
       {
         "name": "Coffee",
         "price": "4.00",
-        "description": ""
+        "description": "",
+        "id": "dessert-caf-1",
+        "source": "aioli-dessert-fall-2026-menu-p1.png"
       },
       {
         "name": "Espresso",
         "price": "4.00",
-        "description": ""
+        "description": "",
+        "id": "dessert-caf-2",
+        "source": "aioli-dessert-fall-2026-menu-p1.png"
       },
       {
         "name": "Cappuccino",
         "price": "6.00",
-        "description": ""
+        "description": "",
+        "id": "dessert-caf-3",
+        "source": "aioli-dessert-fall-2026-menu-p1.png"
       },
       {
         "name": "Latte",
         "price": "6.00",
-        "description": ""
+        "description": "",
+        "id": "dessert-caf-4",
+        "source": "aioli-dessert-fall-2026-menu-p1.png"
       },
       {
         "name": "Mocha",
         "price": "6.00",
-        "description": ""
+        "description": "",
+        "id": "dessert-caf-5",
+        "source": "aioli-dessert-fall-2026-menu-p1.png"
       },
       {
         "name": "Tea",
         "price": "4.00",
-        "description": ""
+        "description": "",
+        "id": "dessert-caf-6",
+        "source": "aioli-dessert-fall-2026-menu-p1.png"
       }
     ]
   },
   {
+    "id": "drinks-sangr-a",
+    "section": "drinks",
+    "category": "drinks",
+    "title": "Sangría",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p1.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "House Sangría",
+        "description": "All-natural ingredients and a special blend of spices, with no added sugar.",
+        "glass": "8.50",
+        "bottle": "32.50",
+        "price": "8.50",
+        "id": "drinks-sangr-a-1",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $25 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "drinks-c-cteles",
+    "section": "drinks",
     "category": "drinks",
     "title": "Cócteles",
-    "note": "Explore the full wine, beer, spirits and after-dinner selection in the original menus below.",
+    "note": "Crafted on demand with fresh-squeezed juices and premium spirits.",
+    "source": "aioli-wine-fall-2026-menu-p1.png",
+    "menu": "bar",
+    "canonical": true,
     "items": [
       {
         "name": "Honey Badger",
         "price": "14.00",
-        "description": "Vodka, lemon, honey, St-Germain, lavender bitters, up, lemon zest."
+        "description": "Vodka, lemon, honey, St-Germain, lavender bitters; up, lemon zest.",
+        "id": "drinks-c-cteles-1",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
       },
       {
         "name": "Chambery Martini",
         "price": "16.00",
-        "description": "Vodka, chamberyzette, up, lemon expression."
+        "description": "Vodka, lemon, Chambéryzette; up, lemon expression.",
+        "id": "drinks-c-cteles-2",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
       },
       {
         "name": "Self Care",
         "price": "17.00",
-        "description": "Gin, strawberry-balsamic shrub, lemon, honey, saline, up, lemon zest."
-      },
-      {
-        "name": "Beetroot Sour",
-        "price": "17.00",
-        "description": "Gin, beet basil syrup, egg white, lemon, honey, up, fresh basil leaf."
+        "description": "Gin, strawberry-balsamic shrub, lemon, honey, saline; up, lemon expression.",
+        "id": "drinks-c-cteles-3",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
       },
       {
         "name": "Rosé Negroni",
         "price": "17.00",
-        "description": "Botanical gin, Bonanto aperitivo, rosé vermouth, over, grapefruit zest."
+        "description": "Gin, Bonanto aperitivo, La Fuerza Mendoza Primavera rosé vermouth; over, grapefruit zest.",
+        "id": "drinks-c-cteles-4",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
       },
       {
-        "name": "Sailor’s Delight",
+        "name": "Beetroot Sour",
         "price": "17.00",
-        "description": "Oleo rum, Plantation pineapple rum, Bonanto, lemon, Banane du Brésil, brown sugar, Angostura bitters, over, maraschino cherry."
+        "description": "Gin, beet basil syrup, egg white, lemon, honey; up with fresh basil leaf.",
+        "id": "drinks-c-cteles-5",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Sailors Delight",
+        "price": "17.00",
+        "description": "Oleo rum, Plantation pineapple rum, Bonanto, lemon, Banane du Brésil, brown sugar, Angostura bitters; over, pineapple and maraschino cherry.",
+        "id": "drinks-c-cteles-6",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Smoke It Up",
+        "price": "17.00",
+        "description": "Tequila, mezcal, lime, honey, crème de violette, salt, pinot noir float; over, lime.",
+        "id": "drinks-c-cteles-7",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
       },
       {
         "name": "Puertas al Infierno",
         "price": "16.00",
-        "description": "Jalapeño-infused tequila, lemon, pineapple, jalapeño agave lime syrup, over, cucumber and Aleppo pepper."
+        "description": "Tequila, lemon, pineapple, lemon-jalapeño shrub, agave, sliced cucumbers and Aleppo pepper.",
+        "id": "drinks-c-cteles-8",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
       },
       {
         "name": "La Sombra Negra",
         "price": "17.00",
-        "description": "Tequila, mezcal, lime, peach liqueur, squid-ink syrup, firewater bitters, over, black salt rim, lime wheel."
+        "description": "Tequila, mezcal, lime, peach liqueur, squid-ink syrup, firewater bitters; over, black salt rim, lime wheel.",
+        "id": "drinks-c-cteles-9",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
       },
       {
-        "name": "Smoke It Up",
-        "price": "15.00",
-        "description": "Mezcal, tequila, lime, honey, crème de violette, salt, pinot noir float, over, lime zest."
+        "name": "White Coco",
+        "price": "16.00",
+        "description": "Bourbon, dark rum, lime, cherry black vanilla bitters, coconut cream; over, dried tea leaves, sprinkle of sesame seeds.",
+        "id": "drinks-c-cteles-10",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
       },
       {
         "name": "Bamboo & Tonic",
         "price": "14.00",
-        "description": "Dry sherry, dry vermouth, tonic, over, Manzanilla olive."
+        "description": "Dry sherry, dry vermouth, tonic; over, Manzanilla olive.",
+        "id": "drinks-c-cteles-11",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $25 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "drinks-caf-c-cteles",
+    "section": "drinks",
+    "category": "drinks",
+    "title": "Café cócteles",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p1.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Espresso Martini",
+        "price": "15.00",
+        "description": "Vodka, espresso, St. George coffee liqueur, house syrup; up, coffee beans.",
+        "id": "drinks-caf-c-cteles-1",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Carajillo a la Roche",
+        "price": "15.00",
+        "description": "Blanco tequila, Montenegro, cinnamon syrup, fresh espresso; over, orange expression.",
+        "id": "drinks-caf-c-cteles-2",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Café Vaquero",
+        "price": "13.00",
+        "description": "Whiskey, brown sugar, Angostura bitters, coffee beans; up, lemon zest.",
+        "id": "drinks-caf-c-cteles-3",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Jerez de la Frontera",
+        "price": "16.00",
+        "description": "Lustau vermut rojo, Meletti amaro, cold brew, house syrup; up, orange zest.",
+        "id": "drinks-caf-c-cteles-4",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $25 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "drinks-cervezas",
+    "section": "drinks",
+    "category": "drinks",
+    "title": "Cervezas",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p1.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Estrella Galicia",
+        "price": "6.00",
+        "description": "Lager, Galicia, Spain",
+        "id": "drinks-cervezas-1",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Bavik",
+        "price": "6.00",
+        "description": "Pilsner, Belgium",
+        "id": "drinks-cervezas-2",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Nitty’s Cider",
+        "price": "8.00",
+        "description": "Black Cherry Cider, California",
+        "id": "drinks-cervezas-3",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Almanac",
+        "price": "8.00",
+        "description": "West Coast Pale Ale, Alameda, California",
+        "id": "drinks-cervezas-4",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Snake Dog",
+        "price": "7.00",
+        "description": "India Pale Ale, Frederick, Maryland",
+        "id": "drinks-cervezas-5",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $25 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "wine-tintos-by-the-glass",
+    "section": "wine",
+    "category": "wine",
+    "title": "Tintos · by the glass",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p1.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Siete Fincas",
+        "description": "Malbec",
+        "region": "Mendoza, Argentina",
+        "vintage": "2022",
+        "bottle": "56.00",
+        "price": "56.00",
+        "glass": "14.00",
+        "id": "wine-tintos-by-the-glass-1",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Besoaín",
+        "description": "Cabernet Sauvignon",
+        "region": "Andes Valley, Chile",
+        "vintage": "2020",
+        "bottle": "60.00",
+        "price": "60.00",
+        "glass": "15.00",
+        "id": "wine-tintos-by-the-glass-2",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Andis",
+        "description": "Barbera",
+        "region": "Amador, California",
+        "vintage": "2021",
+        "bottle": "56.00",
+        "price": "56.00",
+        "glass": "14.00",
+        "id": "wine-tintos-by-the-glass-3",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Viña Santurnia Crianza",
+        "description": "Tempranillo",
+        "region": "Rioja, Spain",
+        "vintage": "2018",
+        "bottle": "56.00",
+        "price": "56.00",
+        "glass": "14.00",
+        "id": "wine-tintos-by-the-glass-4",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Sindicat la Figuera",
+        "description": "Grenache",
+        "region": "Montsant, Spain",
+        "vintage": "2021",
+        "bottle": "60.00",
+        "price": "60.00",
+        "glass": "15.00",
+        "id": "wine-tintos-by-the-glass-5",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Luli",
+        "description": "Pinot Noir",
+        "region": "Santa Lucia Highlands, California",
+        "vintage": "2022",
+        "bottle": "64.00",
+        "price": "64.00",
+        "glass": "16.00",
+        "id": "wine-tintos-by-the-glass-6",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Ultreia “Saint Jacques”",
+        "description": "Mencía",
+        "region": "Bierzo, Spain",
+        "vintage": "2021",
+        "bottle": "56.00",
+        "price": "56.00",
+        "glass": "14.00",
+        "id": "wine-tintos-by-the-glass-7",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Azul",
+        "description": "Syrah blend",
+        "region": "Tierra de Castilla",
+        "vintage": "2019",
+        "bottle": "60.00",
+        "price": "60.00",
+        "glass": "15.00",
+        "id": "wine-tintos-by-the-glass-8",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $25 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "wine-blancos-by-the-glass",
+    "section": "wine",
+    "category": "wine",
+    "title": "Blancos · by the glass",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p1.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Monte Pío",
+        "description": "Albariño",
+        "region": "Rías Baixas, Spain",
+        "vintage": "2022",
+        "bottle": "52.00",
+        "price": "52.00",
+        "glass": "13.00",
+        "id": "wine-blancos-by-the-glass-1",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Clavidor",
+        "description": "Verdejo",
+        "region": "Castilla y León, Spain",
+        "vintage": "2021",
+        "bottle": "52.00",
+        "price": "52.00",
+        "glass": "13.00",
+        "id": "wine-blancos-by-the-glass-2",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Trefethen",
+        "description": "Chardonnay",
+        "region": "Oak Knoll, Napa, California",
+        "vintage": "2022",
+        "bottle": "62.00",
+        "price": "62.00",
+        "glass": "15.00",
+        "id": "wine-blancos-by-the-glass-3",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Algueira “Brandan”",
+        "description": "Godello",
+        "region": "Ribeira Sacra, Spain",
+        "vintage": "2019",
+        "bottle": "60.00",
+        "price": "60.00",
+        "glass": "15.00",
+        "id": "wine-blancos-by-the-glass-4",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $25 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "wine-rosados",
+    "section": "wine",
+    "category": "wine",
+    "title": "Rosados",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p1.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Izadi Larrosa",
+        "description": "Rosé of Garnacha",
+        "region": "Rioja, Spain",
+        "vintage": "2022",
+        "bottle": "48.00",
+        "price": "48.00",
+        "glass": "12.00",
+        "id": "wine-rosados-1",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $25 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "wine-cavas-y-champa-as",
+    "section": "wine",
+    "category": "wine",
+    "title": "Cavas y champañas",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p1.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Conquilla",
+        "description": "Cava Brut Nature Reserva",
+        "region": "Penedès, Spain",
+        "vintage": "NV",
+        "bottle": "48.00",
+        "price": "48.00",
+        "glass": "12.00",
+        "id": "wine-cavas-y-champa-as-1",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Champagne Tribaut",
+        "description": "Brut Réserve, 375 ml",
+        "region": "France",
+        "vintage": "NV",
+        "bottle": "45.00",
+        "price": "45.00",
+        "id": "wine-cavas-y-champa-as-2",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Raventós i Blanc “Blanc de Blancs”",
+        "description": "Cava",
+        "region": "Spain",
+        "vintage": null,
+        "bottle": "68.00",
+        "price": "68.00",
+        "id": "wine-cavas-y-champa-as-3",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Pere Mata",
+        "description": "Cava Trepat",
+        "region": "Penedès, Spain",
+        "vintage": null,
+        "bottle": "62.00",
+        "price": "62.00",
+        "id": "wine-cavas-y-champa-as-4",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Mont Marçal Vinícola “Extremarium”",
+        "description": "Brut Cava",
+        "region": "",
+        "vintage": null,
+        "bottle": "62.00",
+        "price": "62.00",
+        "id": "wine-cavas-y-champa-as-5",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Raventós i Blanc “de Nit”",
+        "description": "Brut Rosé Cava",
+        "region": "Spain",
+        "vintage": null,
+        "bottle": "72.00",
+        "price": "72.00",
+        "id": "wine-cavas-y-champa-as-6",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Ricaredo “Terrers”",
+        "description": "Brut Nature Cava",
+        "region": "Spain",
+        "vintage": "2017",
+        "bottle": "144.00",
+        "price": "144.00",
+        "id": "wine-cavas-y-champa-as-7",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Pardas “Hermos”",
+        "description": "Brut",
+        "region": "Penedès, Spain",
+        "vintage": null,
+        "bottle": "156.00",
+        "price": "156.00",
+        "id": "wine-cavas-y-champa-as-8",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Codorníu Zero",
+        "description": "Non-alcoholic cava, Chardonnay blend",
+        "region": "Catalonia",
+        "vintage": null,
+        "bottle": "44.00",
+        "price": "44.00",
+        "glass": "11.00",
+        "id": "wine-cavas-y-champa-as-9",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $25 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "spirits-vodka",
+    "section": "spirits",
+    "category": "spirits",
+    "title": "Vodka",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p1.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Tito’s",
+        "price": "13.00",
+        "id": "spirits-vodka-1",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "South Fork",
+        "price": "13.00",
+        "id": "spirits-vodka-2",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Ketel One",
+        "price": "13.00",
+        "id": "spirits-vodka-3",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Belvedere",
+        "price": "14.00",
+        "id": "spirits-vodka-4",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Stolichnaya",
+        "price": "13.00",
+        "id": "spirits-vodka-5",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Grey Goose",
+        "price": "15.00",
+        "id": "spirits-vodka-6",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $25 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "spirits-ginebra",
+    "section": "spirits",
+    "category": "spirits",
+    "title": "Ginebra",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p1.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Hayman’s",
+        "price": "14.00",
+        "id": "spirits-ginebra-1",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Barr Hill",
+        "price": "15.00",
+        "id": "spirits-ginebra-2",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Harahorn",
+        "price": "15.00",
+        "id": "spirits-ginebra-3",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Las Californias",
+        "price": "15.00",
+        "id": "spirits-ginebra-4",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Mirabeau",
+        "price": "16.00",
+        "id": "spirits-ginebra-5",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Hendrick’s",
+        "price": "15.00",
+        "id": "spirits-ginebra-6",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Sweet Gwendoline",
+        "price": "15.00",
+        "id": "spirits-ginebra-7",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png",
+        "name_verification": "https://sweetgwendolinefrenchgin.co.uk/"
+      },
+      {
+        "name": "Botanist",
+        "price": "15.00",
+        "id": "spirits-ginebra-8",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Barr Hill Tomcat",
+        "price": "18.00",
+        "id": "spirits-ginebra-9",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Uncle Val’s",
+        "price": "15.00",
+        "id": "spirits-ginebra-10",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $25 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "spirits-tequila",
+    "section": "spirits",
+    "category": "spirits",
+    "title": "Tequila",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p1.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Pueblo Viejo",
+        "price": "13.00",
+        "id": "spirits-tequila-1",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Siete Leguas Blanco",
+        "price": "15.00",
+        "id": "spirits-tequila-2",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Siete Leguas Reposado",
+        "price": "15.00",
+        "id": "spirits-tequila-3",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Enelalma",
+        "price": "15.00",
+        "id": "spirits-tequila-4",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png",
+        "source_name": "ENELALMA"
+      },
+      {
+        "name": "La Gritona Reposado",
+        "price": "16.00",
+        "id": "spirits-tequila-5",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Mijenta Reposado",
+        "price": "16.00",
+        "id": "spirits-tequila-6",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Don Fulano Blanco",
+        "price": "13.00",
+        "id": "spirits-tequila-7",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Don Fulano Reposado",
+        "price": "15.00",
+        "id": "spirits-tequila-8",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Don Julio 1942",
+        "price": "45.00",
+        "id": "spirits-tequila-9",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Fortaleza Blanco",
+        "price": "15.00",
+        "id": "spirits-tequila-10",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Casahuín",
+        "price": "14.00",
+        "id": "spirits-tequila-11",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png",
+        "source_name": "CASAHUIN"
+      },
+      {
+        "name": "Lalo Blanco",
+        "price": "15.00",
+        "id": "spirits-tequila-12",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $25 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "spirits-mezcal",
+    "section": "spirits",
+    "category": "spirits",
+    "title": "Mezcal",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p1.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Mestiza Negra",
+        "price": "13.00",
+        "id": "spirits-mezcal-1",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Yuu Baal Tepeztate",
+        "price": "18.00",
+        "id": "spirits-mezcal-2",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Yuu Baal Tobalá",
+        "price": "30.00",
+        "id": "spirits-mezcal-3",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Herradura Añejo",
+        "price": "16.00",
+        "id": "spirits-mezcal-4",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png",
+        "transcription_note": "Herradura Añejo appears under MEZCAL in the source; source placement is preserved."
+      },
+      {
+        "name": "Ultramundo",
+        "price": "28.00",
+        "id": "spirits-mezcal-5",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Mal Bien",
+        "price": "25.00",
+        "id": "spirits-mezcal-6",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png",
+        "name_verification": "https://www.mezcalmalbien.com/"
+      },
+      {
+        "name": "La Luna Manso",
+        "price": "28.00",
+        "id": "spirits-mezcal-7",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Paquera",
+        "price": "16.00",
+        "id": "spirits-mezcal-8",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $25 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "spirits-borb-n-y-de-centeno",
+    "section": "spirits",
+    "category": "spirits",
+    "title": "Borbón y de centeno",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p1.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Maker’s Mark",
+        "price": "15.00",
+        "id": "spirits-borb-n-y-de-centeno-1",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Willett 4 yr",
+        "price": "18.00",
+        "id": "spirits-borb-n-y-de-centeno-2",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Blanton’s",
+        "price": "25.00",
+        "id": "spirits-borb-n-y-de-centeno-3",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Old Bardstown",
+        "price": "14.00",
+        "id": "spirits-borb-n-y-de-centeno-4",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Stagg Jr",
+        "price": "15.00",
+        "id": "spirits-borb-n-y-de-centeno-5",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Stonestreet",
+        "price": "15.00",
+        "id": "spirits-borb-n-y-de-centeno-6",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png",
+        "name_verification": "https://www.stonestreetwhiskey.com/"
+      },
+      {
+        "name": "Sazerac Rye",
+        "price": "14.00",
+        "id": "spirits-borb-n-y-de-centeno-7",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Willett Rye",
+        "price": "18.00",
+        "id": "spirits-borb-n-y-de-centeno-8",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Colonel E. H. Taylor",
+        "price": "16.00",
+        "id": "spirits-borb-n-y-de-centeno-9",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Eagle Rare",
+        "price": "18.00",
+        "id": "spirits-borb-n-y-de-centeno-10",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Booker’s",
+        "price": "17.00",
+        "id": "spirits-borb-n-y-de-centeno-11",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Spirit Works",
+        "price": "18.00",
+        "id": "spirits-borb-n-y-de-centeno-12",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Woodford",
+        "price": "15.00",
+        "id": "spirits-borb-n-y-de-centeno-13",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "WhistlePig 10 yr Rye",
+        "price": "18.00",
+        "id": "spirits-borb-n-y-de-centeno-14",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "WhistlePig 12 yr Rye",
+        "price": "27.00",
+        "id": "spirits-borb-n-y-de-centeno-15",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Michter’s Rye",
+        "price": "13.00",
+        "id": "spirits-borb-n-y-de-centeno-16",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png",
+        "source_name": "MICHTERS IRISH RYE",
+        "transcription_note": "Source appears to say “IRISH RYE”; retain unambiguous brand and Rye in display."
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $25 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "spirits-escoc-s-whisky-del-mundo",
+    "section": "spirits",
+    "category": "spirits",
+    "title": "Escocés & whisky del mundo",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p1.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Highland Park",
+        "price": "15.00",
+        "id": "spirits-escoc-s-whisky-del-mundo-1",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Glenmorangie 10",
+        "price": "17.00",
+        "id": "spirits-escoc-s-whisky-del-mundo-2",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Glenmorangie 12",
+        "price": "18.00",
+        "id": "spirits-escoc-s-whisky-del-mundo-3",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Lagavulin 16",
+        "price": "22.00",
+        "id": "spirits-escoc-s-whisky-del-mundo-4",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Macallan 12",
+        "price": "18.00",
+        "id": "spirits-escoc-s-whisky-del-mundo-5",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Buchanan’s Deluxe 12",
+        "price": "15.00",
+        "id": "spirits-escoc-s-whisky-del-mundo-6",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Monkey Shoulder",
+        "price": "14.00",
+        "id": "spirits-escoc-s-whisky-del-mundo-7",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Jameson",
+        "price": "15.00",
+        "id": "spirits-escoc-s-whisky-del-mundo-8",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Laphroaig",
+        "price": "15.00",
+        "id": "spirits-escoc-s-whisky-del-mundo-9",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Johnnie Walker Black",
+        "price": "15.00",
+        "id": "spirits-escoc-s-whisky-del-mundo-10",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Johnnie Walker Blue",
+        "price": "44.00",
+        "id": "spirits-escoc-s-whisky-del-mundo-11",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Dalmore 12",
+        "price": "16.00",
+        "id": "spirits-escoc-s-whisky-del-mundo-12",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Springbank 10",
+        "price": "16.00",
+        "id": "spirits-escoc-s-whisky-del-mundo-13",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Hibiki Japanese",
+        "price": "25.00",
+        "id": "spirits-escoc-s-whisky-del-mundo-14",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Takamine Japanese",
+        "price": "24.00",
+        "id": "spirits-escoc-s-whisky-del-mundo-15",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Goldcock Czech",
+        "price": "15.00",
+        "id": "spirits-escoc-s-whisky-del-mundo-16",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $25 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "spirits-fino",
+    "section": "spirits",
+    "category": "spirits",
+    "title": "Fino",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p1.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Fernando de Castilla Fino Sherry",
+        "price": "13.00",
+        "id": "spirits-fino-1",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Fernando de Castilla Manzanilla",
+        "price": "15.00",
+        "id": "spirits-fino-2",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Lustau Amontillado Los Arcos",
+        "price": "14.00",
+        "id": "spirits-fino-3",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Lustau Manzanilla Papirusa",
+        "price": "13.00",
+        "id": "spirits-fino-4",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Lustau Palo Cortado Península",
+        "price": "15.00",
+        "id": "spirits-fino-5",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Hidalgo Fino Seco",
+        "price": "18.00",
+        "id": "spirits-fino-6",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $25 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "spirits-porto-y-madeira",
+    "section": "spirits",
+    "category": "spirits",
+    "title": "Porto y Madeira",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p1.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Vallado 20 yr Tawny",
+        "price": "17.50",
+        "id": "spirits-porto-y-madeira-1",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Noval Black Porto",
+        "price": "15.50",
+        "id": "spirits-porto-y-madeira-2",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Blandy’s Madeira “Rainwater”",
+        "price": "12.00",
+        "id": "spirits-porto-y-madeira-3",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Blandy’s 10 yr Madeira “Bual”",
+        "price": "15.00",
+        "id": "spirits-porto-y-madeira-4",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Blandy’s 10 yr Madeira “Sercial”",
+        "price": "10.00",
+        "id": "spirits-porto-y-madeira-5",
+        "description": "",
+        "source": "aioli-wine-fall-2026-menu-p1.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $25 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "wine-espa-a-rioja",
+    "section": "wine",
+    "category": "wine",
+    "title": "España · Rioja",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p2.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Deobriga Privada",
+        "description": "",
+        "region": "",
+        "vintage": "2017",
+        "bottle": "68.00",
+        "price": "68.00",
+        "id": "wine-espa-a-rioja-1",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Deobriga Selección Familiar",
+        "description": "",
+        "region": "",
+        "vintage": "2018",
+        "bottle": null,
+        "price": null,
+        "id": "wine-espa-a-rioja-2",
+        "source": "aioli-wine-fall-2026-menu-p2.png",
+        "price_note": "Please ask your server.",
+        "uncertainty": "The source image is too small to resolve the printed bottle price confidently.",
+        "possible_source_prices": [
+          "56.00",
+          "58.00"
+        ]
+      },
+      {
+        "name": "Ijalba",
+        "description": "Maturana Tinta",
+        "region": "",
+        "vintage": "2021",
+        "bottle": "75.00",
+        "price": "75.00",
+        "id": "wine-espa-a-rioja-3",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Dominio de Anza",
+        "description": "",
+        "region": "",
+        "vintage": "2023",
+        "bottle": "75.00",
+        "price": "75.00",
+        "id": "wine-espa-a-rioja-4",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Carlos Mazo “Costumbres”",
+        "description": "",
+        "region": "",
+        "vintage": "2021",
+        "bottle": "85.00",
+        "price": "85.00",
+        "id": "wine-espa-a-rioja-5",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Virna",
+        "description": "",
+        "region": "",
+        "vintage": "2022",
+        "bottle": "65.00",
+        "price": "65.00",
+        "id": "wine-espa-a-rioja-6",
+        "source": "aioli-wine-fall-2026-menu-p2.png",
+        "source_name": "VIRNA",
+        "name_verification": "https://parcellewine.com/products/dominio-del-challao-rioja-virna-2022"
+      },
+      {
+        "name": "Carlos Mazo “Barrio Pastores”",
+        "description": "",
+        "region": "",
+        "vintage": null,
+        "bottle": "92.00",
+        "price": "92.00",
+        "id": "wine-espa-a-rioja-7",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Viña Santurnia Reserva",
+        "description": "",
+        "region": "",
+        "vintage": "2019",
+        "bottle": "56.00",
+        "price": "56.00",
+        "id": "wine-espa-a-rioja-8",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Viña Pomal Reserva",
+        "description": "",
+        "region": "",
+        "vintage": "2016",
+        "bottle": "65.00",
+        "price": "65.00",
+        "id": "wine-espa-a-rioja-9",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Viña Alberdi Reserva",
+        "description": "",
+        "region": "",
+        "vintage": "2020",
+        "bottle": "85.00",
+        "price": "85.00",
+        "id": "wine-espa-a-rioja-10",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Viña Ardanza Reserva",
+        "description": "",
+        "region": "",
+        "vintage": "2019",
+        "bottle": "65.00",
+        "price": "65.00",
+        "id": "wine-espa-a-rioja-11",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "CVNE Imperial Gran Reserva",
+        "description": "",
+        "region": "",
+        "vintage": "2018",
+        "bottle": "102.00",
+        "price": "102.00",
+        "id": "wine-espa-a-rioja-12",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Remelluri Reserva",
+        "description": "",
+        "region": "",
+        "vintage": "2015",
+        "bottle": "100.00",
+        "price": "100.00",
+        "id": "wine-espa-a-rioja-13",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Finca Martelo Reserva",
+        "description": "",
+        "region": "",
+        "vintage": "2015",
+        "bottle": null,
+        "price": null,
+        "id": "wine-espa-a-rioja-14",
+        "source": "aioli-wine-fall-2026-menu-p2.png",
+        "price_note": "Please ask your server.",
+        "uncertainty": "The source image is too small to resolve the printed bottle price confidently.",
+        "possible_source_prices": [
+          "120.00",
+          "132.00"
+        ]
+      },
+      {
+        "name": "Roda “I” Reserva",
+        "description": "",
+        "region": "",
+        "vintage": "2019",
+        "bottle": "156.00",
+        "price": "156.00",
+        "id": "wine-espa-a-rioja-15",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Viña Tondonia Reserva",
+        "description": "",
+        "region": "",
+        "vintage": "2012",
+        "bottle": "162.00",
+        "price": "162.00",
+        "id": "wine-espa-a-rioja-16",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Luis Cañas Reserva",
+        "description": "",
+        "region": "",
+        "vintage": "2019",
+        "bottle": "85.00",
+        "price": "85.00",
+        "id": "wine-espa-a-rioja-17",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Muriel Reserva",
+        "description": "",
+        "region": "",
+        "vintage": "2020",
+        "bottle": "78.00",
+        "price": "78.00",
+        "id": "wine-espa-a-rioja-18",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Ontañón Reserva",
+        "description": "",
+        "region": "",
+        "vintage": "2015",
+        "bottle": "65.00",
+        "price": "65.00",
+        "id": "wine-espa-a-rioja-19",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Viña Santurnia Gran Reserva",
+        "description": "",
+        "region": "",
+        "vintage": "2011",
+        "bottle": "85.00",
+        "price": "85.00",
+        "id": "wine-espa-a-rioja-20",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Viña Santurnia Gran Reserva",
+        "description": "",
+        "region": "",
+        "vintage": "2004",
+        "bottle": "290.00",
+        "price": "290.00",
+        "id": "wine-espa-a-rioja-21",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      }
+    ],
+    "region": "Rioja, Spain"
+  },
+  {
+    "id": "wine-espa-a-ribera-del-duero",
+    "section": "wine",
+    "category": "wine",
+    "title": "España · Ribera del Duero",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p2.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Altos del Terral Crianza",
+        "description": "",
+        "region": "",
+        "vintage": "2015",
+        "bottle": "94.00",
+        "price": "94.00",
+        "id": "wine-espa-a-ribera-del-duero-1",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Aster",
+        "description": "",
+        "region": "",
+        "vintage": "2019",
+        "bottle": "91.00",
+        "price": "91.00",
+        "id": "wine-espa-a-ribera-del-duero-2",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "PSI",
+        "description": "",
+        "region": "",
+        "vintage": "2022",
+        "bottle": "156.00",
+        "price": "156.00",
+        "id": "wine-espa-a-ribera-del-duero-3",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Pago de Capellanes Crianza",
+        "description": "",
+        "region": "",
+        "vintage": "2022",
+        "bottle": "77.00",
+        "price": "77.00",
+        "id": "wine-espa-a-ribera-del-duero-4",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Pago de Capellanes",
+        "description": "",
+        "region": "",
+        "vintage": "2020",
+        "bottle": "120.00",
+        "price": "120.00",
+        "id": "wine-espa-a-ribera-del-duero-5",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Pago de Capellanes",
+        "description": "",
+        "region": "",
+        "vintage": "2021",
+        "bottle": "120.00",
+        "price": "120.00",
+        "id": "wine-espa-a-ribera-del-duero-6",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Pago de Capellanes “Parcela Nogal”",
+        "description": "",
+        "region": "",
+        "vintage": "2016",
+        "bottle": "144.00",
+        "price": "144.00",
+        "id": "wine-espa-a-ribera-del-duero-7",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Finca Valdepalacios “Yotuel”",
+        "description": "",
+        "region": "",
+        "vintage": "2016",
+        "bottle": "120.00",
+        "price": "120.00",
+        "id": "wine-espa-a-ribera-del-duero-8",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Algueira “Risco”",
+        "description": "",
+        "region": "",
+        "vintage": "2019",
+        "bottle": "96.00",
+        "price": "96.00",
+        "id": "wine-espa-a-ribera-del-duero-9",
+        "source": "aioli-wine-fall-2026-menu-p2.png",
+        "transcription_note": "Listed under Ribera del Duero in the printed menu; placement preserved without validating appellation."
+      }
+    ],
+    "region": "Ribera del Duero, Spain"
+  },
+  {
+    "id": "wine-espa-a-catalunya",
+    "section": "wine",
+    "category": "wine",
+    "title": "España · Catalunya",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p2.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Acústic Celler “Auditori”",
+        "description": "Garnacha",
+        "region": "Penedès",
+        "vintage": "2015",
+        "bottle": "62.00",
+        "price": "62.00",
+        "id": "wine-espa-a-catalunya-1",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Acústic Celler “Braó”",
+        "description": "Garnacha",
+        "region": "Penedès",
+        "vintage": "2017",
+        "bottle": "75.00",
+        "price": "75.00",
+        "id": "wine-espa-a-catalunya-2",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Pepe Raventós “Terrasses Serral”",
+        "description": "Bastard Negre",
+        "region": "Priorat",
+        "vintage": "2022",
+        "bottle": "85.00",
+        "price": "85.00",
+        "id": "wine-espa-a-catalunya-3",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Álvaro Palacios “Finca Dofi”",
+        "description": "Mostly Garnacha",
+        "region": "Priorat",
+        "vintage": "2017",
+        "bottle": "245.00",
+        "price": "245.00",
+        "id": "wine-espa-a-catalunya-4",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "B. Vernet “Clos Bartolomé”",
+        "description": "",
+        "region": "",
+        "vintage": "2021",
+        "bottle": "65.00",
+        "price": "65.00",
+        "id": "wine-espa-a-catalunya-5",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      }
+    ]
+  },
+  {
+    "id": "wine-espa-a-galicia",
+    "section": "wine",
+    "category": "wine",
+    "title": "España · Galicia",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p2.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Monte Pío “Benquerido”",
+        "description": "Mencía",
+        "region": "Rías Baixas",
+        "vintage": "2021",
+        "bottle": "65.00",
+        "price": "65.00",
+        "id": "wine-espa-a-galicia-1",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Eulogio Pomares Penapedre",
+        "description": "Garnacha",
+        "region": "Ribeira Sacra",
+        "vintage": "2019",
+        "bottle": "98.00",
+        "price": "98.00",
+        "id": "wine-espa-a-galicia-2",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Algueira “Serradelo”",
+        "description": "Brancellao",
+        "region": "Ribeira Sacra",
+        "vintage": "2015",
+        "bottle": "102.00",
+        "price": "102.00",
+        "id": "wine-espa-a-galicia-3",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Algueira “Pizarra”",
+        "description": "Garnacha",
+        "region": "Ribeira Sacra",
+        "vintage": "2015",
+        "bottle": "145.00",
+        "price": "145.00",
+        "id": "wine-espa-a-galicia-4",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Algueira “Fincas”",
+        "description": "Garnacha",
+        "region": "Ribeira Sacra",
+        "vintage": "2015",
+        "bottle": "125.00",
+        "price": "125.00",
+        "id": "wine-espa-a-galicia-5",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      }
+    ]
+  },
+  {
+    "id": "wine-espa-a-otros-tintos-espa-oles",
+    "section": "wine",
+    "category": "wine",
+    "title": "España · Otros tintos españoles",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p2.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Primitivo Quiles “Raspay”",
+        "description": "",
+        "region": "Alicante",
+        "vintage": "2010",
+        "bottle": "58.00",
+        "price": "58.00",
+        "id": "wine-espa-a-otros-tintos-espa-oles-1",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Dominio del Urogallo “Fanfarria”",
+        "description": "Mencía and Albarín Negro",
+        "region": "Asturias",
+        "vintage": "2019",
+        "bottle": "56.00",
+        "price": "56.00",
+        "id": "wine-espa-a-otros-tintos-espa-oles-2",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "M. Griñón “Summa Varietales”",
+        "description": "Rare red blend",
+        "region": "Toledo",
+        "vintage": "2008",
+        "bottle": "98.00",
+        "price": "98.00",
+        "id": "wine-espa-a-otros-tintos-espa-oles-3",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Marqués de Griñón “Emeritvs”",
+        "description": "Cabernet, Petit Verdot and Syrah",
+        "region": "Toledo",
+        "vintage": "2010",
+        "bottle": "222.00",
+        "price": "222.00",
+        "id": "wine-espa-a-otros-tintos-espa-oles-4",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Marqués de Griñón “Cal”",
+        "description": "",
+        "region": "",
+        "vintage": "2016",
+        "bottle": "108.00",
+        "price": "108.00",
+        "id": "wine-espa-a-otros-tintos-espa-oles-5",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Viladequinta",
+        "description": "Mencía",
+        "region": "",
+        "vintage": "2019",
+        "bottle": "55.00",
+        "price": "55.00",
+        "id": "wine-espa-a-otros-tintos-espa-oles-6",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "D’Arenberg",
+        "description": "",
+        "region": "",
+        "vintage": "2016",
+        "bottle": "52.00",
+        "price": "52.00",
+        "id": "wine-espa-a-otros-tintos-espa-oles-7",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Supersónico",
+        "description": "",
+        "region": "",
+        "vintage": "2022",
+        "bottle": "75.00",
+        "price": "75.00",
+        "id": "wine-espa-a-otros-tintos-espa-oles-8",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "O Estranxeiro",
+        "description": "",
+        "region": "",
+        "vintage": "2019",
+        "bottle": "64.00",
+        "price": "64.00",
+        "id": "wine-espa-a-otros-tintos-espa-oles-9",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      }
+    ]
+  },
+  {
+    "id": "wine-france-bourgogne",
+    "section": "wine",
+    "category": "wine",
+    "title": "France · Bourgogne",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p2.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Domaine Besson “Le Haut Colombier”",
+        "description": "Pinot Noir",
+        "region": "Givry",
+        "vintage": "2022",
+        "bottle": "85.00",
+        "price": "85.00",
+        "id": "wine-france-bourgogne-1",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Bouchard Père et Fils “Vigne de l’Enfant Jésus”",
+        "description": "Pinot Noir",
+        "region": "Beaune Premier Cru",
+        "vintage": "2018",
+        "bottle": "256.00",
+        "price": "256.00",
+        "id": "wine-france-bourgogne-2",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Thibault Liger-Belair",
+        "description": "Pinot Noir",
+        "region": "Nuits-Saint-Georges",
+        "vintage": "2018",
+        "bottle": "158.00",
+        "price": "158.00",
+        "id": "wine-france-bourgogne-3",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Jadot Vaucrain Nuits",
+        "description": "",
+        "region": "",
+        "vintage": "2022",
+        "bottle": "108.00",
+        "price": "108.00",
+        "id": "wine-france-bourgogne-4",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Pommard Vieilles Vignes",
+        "description": "",
+        "region": "",
+        "vintage": "2014",
+        "bottle": "150.00",
+        "price": "150.00",
+        "id": "wine-france-bourgogne-5",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      }
+    ]
+  },
+  {
+    "id": "wine-france-bordeaux",
+    "section": "wine",
+    "category": "wine",
+    "title": "France · Bordeaux",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p2.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Le Puy “Emilien”",
+        "description": "Merlot and Cabernet Sauvignon",
+        "region": "Côtes de Francs",
+        "vintage": "2019",
+        "bottle": "112.00",
+        "price": "112.00",
+        "id": "wine-france-bordeaux-1",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Château Prieuré-Lichine",
+        "description": "Cabernet Sauvignon",
+        "region": "Margaux",
+        "vintage": "2018",
+        "bottle": "145.00",
+        "price": "145.00",
+        "id": "wine-france-bordeaux-2",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      }
+    ]
+  },
+  {
+    "id": "wine-france-rh-ne",
+    "section": "wine",
+    "category": "wine",
+    "title": "France · Rhône",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p2.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Domaine Porte Rouge",
+        "description": "",
+        "region": "Châteauneuf-du-Pape",
+        "vintage": "2020",
+        "bottle": "126.00",
+        "price": "126.00",
+        "id": "wine-france-rh-ne-1",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Christophe Pichon “Promesse”",
+        "description": "Syrah",
+        "region": "Côte-Rôtie",
+        "vintage": "2019",
+        "bottle": "145.00",
+        "price": "145.00",
+        "id": "wine-france-rh-ne-2",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Jean-Claude Marsanne",
+        "description": "Syrah",
+        "region": "Saint-Joseph",
+        "vintage": "2019",
+        "bottle": "82.00",
+        "price": "82.00",
+        "id": "wine-france-rh-ne-3",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      }
+    ]
+  },
+  {
+    "id": "wine-france-les-autres-pays",
+    "section": "wine",
+    "category": "wine",
+    "title": "France · Les autres pays",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p2.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Giles Servin “Sant Armettu”",
+        "description": "Sciacarellu",
+        "region": "Corse",
+        "vintage": "2019",
+        "bottle": "82.00",
+        "price": "82.00",
+        "id": "wine-france-les-autres-pays-1",
+        "source": "aioli-wine-fall-2026-menu-p2.png",
+        "source_name": "GILES SERVIN “SANT ARMETTU”"
+      }
+    ]
+  },
+  {
+    "id": "wine-italia-piemonte",
+    "section": "wine",
+    "category": "wine",
+    "title": "Italia · Piemonte",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p2.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Rovellotti “Chioso dei Pomi”",
+        "description": "Nebbiolo",
+        "region": "Ghemme",
+        "vintage": "2015",
+        "bottle": "160.00",
+        "price": "160.00",
+        "id": "wine-italia-piemonte-1",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Damilano “Cannubi”",
+        "description": "Nebbiolo",
+        "region": "Barolo",
+        "vintage": "2012",
+        "bottle": "182.00",
+        "price": "182.00",
+        "id": "wine-italia-piemonte-2",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      }
+    ]
+  },
+  {
+    "id": "wine-italia-toscana-y-umbria",
+    "section": "wine",
+    "category": "wine",
+    "title": "Italia · Toscana y Umbria",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p2.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Castello di Volpaia",
+        "description": "Chianti Classico Riserva",
+        "region": "",
+        "vintage": "2020",
+        "bottle": "118.00",
+        "price": "118.00",
+        "id": "wine-italia-toscana-y-umbria-1",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Mozart Wine",
+        "description": "Brunello di Montalcino",
+        "region": "",
+        "vintage": "2016",
+        "bottle": "154.00",
+        "price": "154.00",
+        "id": "wine-italia-toscana-y-umbria-2",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      }
+    ]
+  },
+  {
+    "id": "wine-italia-otros-tintos-italianos",
+    "section": "wine",
+    "category": "wine",
+    "title": "Italia · Otros tintos italianos",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p2.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Donnafugata “Mille e una Notte”",
+        "description": "Rosso",
+        "region": "Sicilia",
+        "vintage": "2018",
+        "bottle": "182.00",
+        "price": "182.00",
+        "id": "wine-italia-otros-tintos-italianos-1",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Monte Tondo",
+        "description": "Corvina",
+        "region": "Veneto",
+        "vintage": "2021",
+        "bottle": "48.00",
+        "price": "48.00",
+        "id": "wine-italia-otros-tintos-italianos-2",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Giuseppe Lonardi “Privilegia”",
+        "description": "Corvina",
+        "region": "Rosso Veronese",
+        "vintage": "2012",
+        "bottle": "78.00",
+        "price": "78.00",
+        "id": "wine-italia-otros-tintos-italianos-3",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Valadona",
+        "description": "",
+        "region": "",
+        "vintage": "2013",
+        "bottle": "120.00",
+        "price": "120.00",
+        "id": "wine-italia-otros-tintos-italianos-4",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Cala Civetta",
+        "description": "",
+        "region": "",
+        "vintage": "2021",
+        "bottle": "48.00",
+        "price": "48.00",
+        "id": "wine-italia-otros-tintos-italianos-5",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      }
+    ]
+  },
+  {
+    "id": "wine-selecciones-de-reda",
+    "section": "wine",
+    "category": "wine",
+    "title": "Selecciones de Reda",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p2.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "D’Arenberg “Derelict Vineyard”",
+        "description": "Grenache",
+        "region": "McLaren Vale",
+        "vintage": "2016",
+        "bottle": "52.00",
+        "price": "52.00",
+        "id": "wine-selecciones-de-reda-1",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Charles Martinez",
+        "description": "Field blend",
+        "region": "Ojos Negros, Baja California, Mexico",
+        "vintage": "2021",
+        "bottle": "92.00",
+        "price": "92.00",
+        "id": "wine-selecciones-de-reda-2",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Frano Miloš",
+        "description": "Plavac Mali",
+        "region": "Pelješac Peninsula, Croatia",
+        "vintage": "2015",
+        "bottle": "62.00",
+        "price": "62.00",
+        "id": "wine-selecciones-de-reda-3",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Chapoutier “Tournon”",
+        "description": "Syrah",
+        "region": "Victoria, Australia",
+        "vintage": "2011",
+        "bottle": "78.00",
+        "price": "78.00",
+        "id": "wine-selecciones-de-reda-4",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Bass Phillip “Bin 17K”",
+        "description": "Pinot Noir",
+        "region": "Gippsland, South Victoria, Australia",
+        "vintage": "2019",
+        "bottle": "145.00",
+        "price": "145.00",
+        "id": "wine-selecciones-de-reda-5",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Penfolds “St Henri”",
+        "description": "Shiraz",
+        "region": "Barossa Valley, Australia",
+        "vintage": "2018",
+        "bottle": "166.00",
+        "price": "166.00",
+        "id": "wine-selecciones-de-reda-6",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Domaine Oikonomoy “Antigone”",
+        "description": "Liatiko and Mandilari",
+        "region": "Cyclades, Crete",
+        "vintage": "2004",
+        "bottle": "222.00",
+        "price": "222.00",
+        "id": "wine-selecciones-de-reda-7",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      }
+    ]
+  },
+  {
+    "id": "wine-nuevo-mundo-california",
+    "section": "wine",
+    "category": "wine",
+    "title": "Nuevo mundo · California",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p2.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Andis",
+        "description": "Zinfandel",
+        "region": "Amador",
+        "vintage": "2016",
+        "bottle": "55.00",
+        "price": "55.00",
+        "id": "wine-nuevo-mundo-california-1",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Terre Rouge “Les Côtes Ouest”",
+        "description": "Grenache blend",
+        "region": "El Dorado",
+        "vintage": "2014",
+        "bottle": "68.00",
+        "price": "68.00",
+        "id": "wine-nuevo-mundo-california-2",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Rhys Vineyards",
+        "description": "Pinot Noir",
+        "region": "Santa Cruz Mountains",
+        "vintage": "2017",
+        "bottle": "85.00",
+        "price": "85.00",
+        "id": "wine-nuevo-mundo-california-3",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Darren Delmore",
+        "description": "Pinot Noir",
+        "region": "Humboldt",
+        "vintage": "2023",
+        "bottle": "89.00",
+        "price": "89.00",
+        "id": "wine-nuevo-mundo-california-4",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Joseph Swan “Saralee”",
+        "description": "Pinot Noir",
+        "region": "Russian River Valley",
+        "vintage": "2019",
+        "bottle": "105.00",
+        "price": "105.00",
+        "id": "wine-nuevo-mundo-california-5",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Maggy Hawk “Afleet”",
+        "description": "Pinot Noir",
+        "region": "Anderson Valley",
+        "vintage": "2019",
+        "bottle": "115.00",
+        "price": "115.00",
+        "id": "wine-nuevo-mundo-california-6",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Navarro Vineyards “Méthode Ancienne”",
+        "description": "Pinot Noir",
+        "region": "Anderson Valley",
+        "vintage": "2021",
+        "bottle": "125.00",
+        "price": "125.00",
+        "id": "wine-nuevo-mundo-california-7",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Bonterra “The McNab”",
+        "description": "Cabernet Sauvignon",
+        "region": "Sonoma Valley",
+        "vintage": "2019",
+        "bottle": "85.00",
+        "price": "85.00",
+        "id": "wine-nuevo-mundo-california-8",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Camino “En Foule”",
+        "description": "Cabernet Sauvignon",
+        "region": "Moon Mountain, Sonoma",
+        "vintage": "2023",
+        "bottle": "110.00",
+        "price": "110.00",
+        "id": "wine-nuevo-mundo-california-9",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Far Mountain “Fission”",
+        "description": "Cabernet Sauvignon",
+        "region": "Moon Mountain, Sonoma",
+        "vintage": "2020",
+        "bottle": "125.00",
+        "price": "125.00",
+        "id": "wine-nuevo-mundo-california-10",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Freemark Abbey",
+        "description": "Cabernet Sauvignon",
+        "region": "Napa",
+        "vintage": "2021",
+        "bottle": "132.00",
+        "price": "132.00",
+        "id": "wine-nuevo-mundo-california-11",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Silver Oak",
+        "description": "Cabernet Sauvignon",
+        "region": "Alexander Valley",
+        "vintage": "2019",
+        "bottle": "175.00",
+        "price": "175.00",
+        "id": "wine-nuevo-mundo-california-12",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Brandlin Estate",
+        "description": "Cabernet Sauvignon",
+        "region": "Mount Veeder, Napa",
+        "vintage": "2018",
+        "bottle": "228.00",
+        "price": "228.00",
+        "id": "wine-nuevo-mundo-california-13",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "The Mascot",
+        "description": "Cabernet Sauvignon",
+        "region": "Rutherford",
+        "vintage": "2020",
+        "bottle": "256.00",
+        "price": "256.00",
+        "id": "wine-nuevo-mundo-california-14",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Odette Reserve",
+        "description": "Cabernet Sauvignon",
+        "region": "Napa",
+        "vintage": "2019",
+        "bottle": "422.00",
+        "price": "422.00",
+        "id": "wine-nuevo-mundo-california-15",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Staglin Family",
+        "description": "Cabernet Sauvignon",
+        "region": "Rutherford",
+        "vintage": "2014",
+        "bottle": "465.00",
+        "price": "465.00",
+        "id": "wine-nuevo-mundo-california-16",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      }
+    ]
+  },
+  {
+    "id": "wine-nuevo-mundo-tintos-nacionales",
+    "section": "wine",
+    "category": "wine",
+    "title": "Nuevo mundo · Tintos nacionales",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p2.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "St. Innocent “Freedom Hill”",
+        "description": "Pinot Noir",
+        "region": "Willamette, Oregon",
+        "vintage": "2018",
+        "bottle": "114.00",
+        "price": "114.00",
+        "id": "wine-nuevo-mundo-tintos-nacionales-1",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      }
+    ]
+  },
+  {
+    "id": "wine-nuevo-mundo-tintos-de-sudam-rica",
+    "section": "wine",
+    "category": "wine",
+    "title": "Nuevo mundo · Tintos de Sudamérica",
+    "note": "",
+    "source": "aioli-wine-fall-2026-menu-p2.png",
+    "menu": "bar",
+    "canonical": true,
+    "items": [
+      {
+        "name": "Lapostolle",
+        "description": "Carménère",
+        "region": "Apalta Valley, Chile",
+        "vintage": "2020",
+        "bottle": "48.00",
+        "price": "48.00",
+        "id": "wine-nuevo-mundo-tintos-de-sudam-rica-1",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Clos Apalta “Le Petit Clos”",
+        "description": "Chilean Bordeaux blend",
+        "region": "Apalta Valley, Chile",
+        "vintage": "2019",
+        "bottle": "122.00",
+        "price": "122.00",
+        "id": "wine-nuevo-mundo-tintos-de-sudam-rica-2",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Escaleras de Empedrado",
+        "description": "Pinot Noir",
+        "region": "Empedrado, Chile",
+        "vintage": "2016",
+        "bottle": "156.00",
+        "price": "156.00",
+        "id": "wine-nuevo-mundo-tintos-de-sudam-rica-3",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "El Enemigo",
+        "description": "Cabernet Franc",
+        "region": "Mendoza, Argentina",
+        "vintage": "2020",
+        "bottle": "75.00",
+        "price": "75.00",
+        "id": "wine-nuevo-mundo-tintos-de-sudam-rica-4",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Catena Alta “Historic Rows”",
+        "description": "Malbec",
+        "region": "Mendoza, Argentina",
+        "vintage": "2021",
+        "bottle": "118.00",
+        "price": "118.00",
+        "id": "wine-nuevo-mundo-tintos-de-sudam-rica-5",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Charles Martinez",
+        "description": "Field blend",
+        "region": "Ojos Negros, Baja California, Mexico",
+        "vintage": "2021",
+        "bottle": "92.00",
+        "price": "92.00",
+        "id": "wine-nuevo-mundo-tintos-de-sudam-rica-6",
+        "source": "aioli-wine-fall-2026-menu-p2.png",
+        "transcription_note": "Mexican wine is placed under Sudamérica in source; it also appears in Selecciones de Reda."
+      },
+      {
+        "name": "La Marchigiana",
+        "description": "",
+        "region": "",
+        "vintage": "2019",
+        "bottle": "48.00",
+        "price": "48.00",
+        "id": "wine-nuevo-mundo-tintos-de-sudam-rica-7",
+        "source": "aioli-wine-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Viña Progreso",
+        "description": "",
+        "region": "",
+        "vintage": "2022",
+        "bottle": null,
+        "price": null,
+        "price_note": "Price not printed; please ask.",
+        "id": "wine-nuevo-mundo-tintos-de-sudam-rica-8",
+        "source": "aioli-wine-fall-2026-menu-p2.png",
+        "uncertainty": "No price is printed on this line."
+      }
+    ]
+  },
+  {
+    "id": "wine-lunch-tintos",
+    "section": "lunch",
+    "category": "lunch",
+    "title": "Lunch · Tintos",
+    "note": "As listed on the lunch menu.",
+    "source": "aioli-lunch-fall-2026-menu-p2.png",
+    "menu": "lunch",
+    "canonical": false,
+    "items": [
+      {
+        "name": "Siete Fincas",
+        "description": "Malbec",
+        "region": "Mendoza, Argentina",
+        "vintage": "2022",
+        "bottle": "56.00",
+        "price": "56.00",
+        "glass": "14.00",
+        "id": "wine-lunch-tintos-1",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Besoaín",
+        "description": "Cabernet Sauvignon",
+        "region": "Andes Valley, Chile",
+        "vintage": "2020",
+        "bottle": "60.00",
+        "price": "60.00",
+        "glass": "15.00",
+        "id": "wine-lunch-tintos-2",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Andis",
+        "description": "Barbera",
+        "region": "Amador, California",
+        "vintage": "2021",
+        "bottle": "56.00",
+        "price": "56.00",
+        "glass": "14.00",
+        "id": "wine-lunch-tintos-3",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Viña Santurnia",
+        "description": "Tempranillo",
+        "region": "Rioja, Spain",
+        "vintage": "2018",
+        "bottle": "56.00",
+        "price": "56.00",
+        "glass": "14.00",
+        "id": "wine-lunch-tintos-4",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Sindicat la Figuera",
+        "description": "Grenache",
+        "region": "Montsant, Spain",
+        "vintage": "2021",
+        "bottle": "60.00",
+        "price": "60.00",
+        "glass": "15.00",
+        "id": "wine-lunch-tintos-5",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Luli",
+        "description": "Pinot Noir",
+        "region": "Santa Lucia Highlands",
+        "vintage": "2022",
+        "bottle": "64.00",
+        "price": "64.00",
+        "glass": "16.00",
+        "id": "wine-lunch-tintos-6",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Ultreia “Saint Jacques”",
+        "description": "Mencía",
+        "region": "Bierzo, Spain",
+        "vintage": "2021",
+        "bottle": "56.00",
+        "price": "56.00",
+        "glass": "14.00",
+        "id": "wine-lunch-tintos-7",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Azul",
+        "description": "Syrah blend",
+        "region": "Tierra de Castilla",
+        "vintage": "2019",
+        "bottle": "60.00",
+        "price": "60.00",
+        "glass": "15.00",
+        "id": "wine-lunch-tintos-8",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $20 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "wine-lunch-blancos",
+    "section": "lunch",
+    "category": "lunch",
+    "title": "Lunch · Blancos",
+    "note": "Lunch list: Monte Pío $15 / $60; Clavidor $14 / $56; Trefethen vintage 2020. The bar list prints different Monte Pío and Clavidor prices and Trefethen vintage 2022.",
+    "source": "aioli-lunch-fall-2026-menu-p2.png",
+    "menu": "lunch",
+    "canonical": false,
+    "items": [
+      {
+        "name": "Monte Pío",
+        "description": "Albariño",
+        "region": "Rías Baixas, Spain",
+        "vintage": "2022",
+        "bottle": "60.00",
+        "price": "60.00",
+        "glass": "15.00",
+        "id": "wine-lunch-blancos-1",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Clavidor",
+        "description": "Verdejo",
+        "region": "Rueda, Spain",
+        "vintage": "2021",
+        "bottle": "56.00",
+        "price": "56.00",
+        "glass": "14.00",
+        "id": "wine-lunch-blancos-2",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Trefethen",
+        "description": "Chardonnay",
+        "region": "Oak Knoll, Napa, California",
+        "vintage": "2020",
+        "bottle": "62.00",
+        "price": "62.00",
+        "glass": "15.00",
+        "id": "wine-lunch-blancos-3",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Algueira “Brandan”",
+        "description": "Godello",
+        "region": "Ribeira Sacra, Spain",
+        "vintage": "2019",
+        "bottle": "60.00",
+        "price": "60.00",
+        "glass": "15.00",
+        "id": "wine-lunch-blancos-4",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $20 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "wine-lunch-rosados-y-cavas",
+    "section": "lunch",
+    "category": "lunch",
+    "title": "Lunch · Rosados y cavas",
+    "note": "Lunch list: Conquilla Brut Cava is $12 / $44. The bar list offers Conquilla Brut Nature Reserva at $12 / $48.",
+    "source": "aioli-lunch-fall-2026-menu-p2.png",
+    "menu": "lunch",
+    "canonical": false,
+    "items": [
+      {
+        "name": "Conquilla",
+        "description": "Brut Cava",
+        "region": "Penedès, Spain",
+        "vintage": "NV",
+        "bottle": "44.00",
+        "price": "44.00",
+        "glass": "12.00",
+        "id": "wine-lunch-rosados-y-cavas-1",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Izadi Larrosa",
+        "description": "Rosé of Garnacha",
+        "region": "Rioja, Spain",
+        "vintage": "2022",
+        "bottle": "48.00",
+        "price": "48.00",
+        "glass": "12.00",
+        "id": "wine-lunch-rosados-y-cavas-2",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Codorníu Zero",
+        "description": "Non-alcoholic cava, Chardonnay blend",
+        "region": "Catalonia",
+        "vintage": null,
+        "bottle": "44.00",
+        "price": "44.00",
+        "glass": "11.00",
+        "id": "wine-lunch-rosados-y-cavas-3",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $20 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "drinks-lunch-cervezas",
+    "section": "lunch",
+    "category": "lunch",
+    "title": "Lunch · Cervezas",
+    "note": "As listed on the lunch menu.",
+    "source": "aioli-lunch-fall-2026-menu-p2.png",
+    "menu": "lunch",
+    "canonical": false,
+    "items": [
+      {
+        "name": "Estrella Galicia",
+        "price": "6.00",
+        "description": "Lager, Galicia, Spain",
+        "id": "drinks-lunch-cervezas-1",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Bavik",
+        "price": "6.00",
+        "description": "Pilsner, Belgium",
+        "id": "drinks-lunch-cervezas-2",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Nitty’s Cider",
+        "price": "8.00",
+        "description": "Black Cherry Cider, California",
+        "id": "drinks-lunch-cervezas-3",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Almanac",
+        "price": "8.00",
+        "description": "West Coast Pale Ale, Alameda, California",
+        "id": "drinks-lunch-cervezas-4",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Snake Dog",
+        "price": "7.00",
+        "description": "India Pale Ale, Frederick, Maryland",
+        "id": "drinks-lunch-cervezas-5",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $20 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "drinks-lunch-c-cteles",
+    "section": "lunch",
+    "category": "lunch",
+    "title": "Lunch · Cócteles",
+    "note": "Lunch list: Smoke It Up $15 and White Coco $18. The bar list prints $17 and $16 respectively; some ingredients and garnishes also differ.",
+    "source": "aioli-lunch-fall-2026-menu-p2.png",
+    "menu": "lunch",
+    "canonical": false,
+    "items": [
+      {
+        "name": "Honey Badger",
+        "price": "14.00",
+        "description": "Vodka, lemon, honey, St-Germain, lavender bitters, up, lemon zest.",
+        "id": "drinks-lunch-c-cteles-1",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Chambery Martini",
+        "price": "16.00",
+        "description": "Vodka, chamberyzette, up, lemon expression.",
+        "id": "drinks-lunch-c-cteles-2",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Self Care",
+        "price": "17.00",
+        "description": "Gin, strawberry-balsamic shrub, lemon, honey, saline, up, lemon zest.",
+        "id": "drinks-lunch-c-cteles-3",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Beetroot Sour",
+        "price": "17.00",
+        "description": "Gin, beet basil syrup, egg white, lemon, honey, up, fresh basil leaf.",
+        "id": "drinks-lunch-c-cteles-4",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Rosé Negroni",
+        "price": "17.00",
+        "description": "Botanical gin, Bonanto aperitivo, rosé vermouth, over, grapefruit zest.",
+        "id": "drinks-lunch-c-cteles-5",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Sailor’s Delight",
+        "price": "17.00",
+        "description": "Oleo rum, Plantation pineapple rum, Bonanto, lemon, Banane du Brésil, brown sugar, Angostura bitters, over, maraschino cherry.",
+        "id": "drinks-lunch-c-cteles-6",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Puertas al Infierno",
+        "price": "16.00",
+        "description": "Jalapeño-infused tequila, lemon, pineapple, jalapeño agave lime syrup, over, cucumber and Aleppo pepper.",
+        "id": "drinks-lunch-c-cteles-7",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "La Sombra Negra",
+        "price": "17.00",
+        "description": "Tequila, mezcal, lime, peach liqueur, squid-ink syrup, firewater bitters, over, black salt rim, lime wheel.",
+        "id": "drinks-lunch-c-cteles-8",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Smoke It Up",
+        "price": "15.00",
+        "description": "Mezcal, tequila, lime, honey, crème de violette, salt, pinot noir float, over, lime zest.",
+        "id": "drinks-lunch-c-cteles-9",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Bamboo & Tonic",
+        "price": "14.00",
+        "description": "Dry sherry, dry vermouth, tonic, over, Manzanilla olive.",
+        "id": "drinks-lunch-c-cteles-10",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
       },
       {
         "name": "White Coco",
         "price": "18.00",
-        "description": "Bourbon, dark rum, lime, cherry black vanilla bitters, coconut cream, over, dried tea leaves, sesame seeds."
+        "description": "Bourbon, dark rum, lime, cherry black vanilla bitters, coconut cream, over, dried tea leaves, sesame seeds.",
+        "id": "drinks-lunch-c-cteles-11",
+        "source": "aioli-lunch-fall-2026-menu-p2.png"
+      }
+    ],
+    "source_notes": [
+      "All wines, cocktails and drinks are subject to availability.",
+      "Corkage fee: $20 per 750 ml.",
+      "Prices and vintages may change without notice."
+    ]
+  },
+  {
+    "id": "drinks-after-dinner-caf-c-cteles",
+    "section": "dessert",
+    "category": "dessert",
+    "title": "After dinner · Café cócteles",
+    "note": "Dessert list: Café Vaquero $15; the bar list prints $13. Syrups and some ingredients differ between sheets.",
+    "source": "aioli-dessert-fall-2026-menu-p1.png",
+    "menu": "after-dinner",
+    "canonical": false,
+    "items": [
+      {
+        "name": "Espresso Martini",
+        "price": "15.00",
+        "description": "Vodka, espresso, St. George coffee liqueur, agave syrup, coffee beans.",
+        "id": "drinks-after-dinner-caf-c-cteles-1",
+        "source": "aioli-dessert-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Carajillo a la Roche",
+        "price": "15.00",
+        "description": "Blanco tequila, Montenegro, cinnamon syrup, fresh espresso; over, orange expression.",
+        "id": "drinks-after-dinner-caf-c-cteles-2",
+        "source": "aioli-dessert-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Café Vaquero",
+        "price": "15.00",
+        "description": "Whiskey, demerara syrup, Angostura bitters, coffee beans; up, lemon zest.",
+        "id": "drinks-after-dinner-caf-c-cteles-3",
+        "source": "aioli-dessert-fall-2026-menu-p1.png"
+      },
+      {
+        "name": "Jerez de la Frontera",
+        "price": "16.00",
+        "description": "Lustau vermut rojo, Meletti amaro, Mast cold brew, honey syrup; up, orange zest.",
+        "id": "drinks-after-dinner-caf-c-cteles-4",
+        "source": "aioli-dessert-fall-2026-menu-p1.png"
+      }
+    ]
+  },
+  {
+    "id": "spirits-after-dinner-fino",
+    "section": "dessert",
+    "category": "dessert",
+    "title": "After dinner · Fino",
+    "note": "As listed on the dessert menu.",
+    "source": "aioli-dessert-fall-2026-menu-p2.png",
+    "menu": "after-dinner",
+    "canonical": false,
+    "items": [
+      {
+        "name": "Fernando de Castilla Amontillado Sherry",
+        "price": "12.00",
+        "id": "spirits-after-dinner-fino-1",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Fernando de Castilla Fino Sherry",
+        "price": "13.00",
+        "id": "spirits-after-dinner-fino-2",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Fernando de Castilla Manzanilla",
+        "price": "15.00",
+        "id": "spirits-after-dinner-fino-3",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Lustau Amontillado Los Arcos",
+        "price": "14.00",
+        "id": "spirits-after-dinner-fino-4",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Lustau Manzanilla Papirusa",
+        "price": "13.00",
+        "id": "spirits-after-dinner-fino-5",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Arroyuelo Fino en Rama",
+        "price": "15.00",
+        "id": "spirits-after-dinner-fino-6",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Hidalgo Fino Seco",
+        "price": "18.00",
+        "id": "spirits-after-dinner-fino-7",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      }
+    ]
+  },
+  {
+    "id": "spirits-after-dinner-porto-y-madeira",
+    "section": "dessert",
+    "category": "dessert",
+    "title": "After dinner · Porto y Madeira",
+    "note": "As listed on the dessert menu.",
+    "source": "aioli-dessert-fall-2026-menu-p2.png",
+    "menu": "after-dinner",
+    "canonical": false,
+    "items": [
+      {
+        "name": "Vallado 10 yr Tawny",
+        "price": "12.00",
+        "id": "spirits-after-dinner-porto-y-madeira-1",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Vallado 20 yr Tawny",
+        "price": "17.50",
+        "id": "spirits-after-dinner-porto-y-madeira-2",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Noval Black Porto",
+        "price": "15.50",
+        "id": "spirits-after-dinner-porto-y-madeira-3",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Blandy’s Madeira “Rainwater”",
+        "price": "12.00",
+        "id": "spirits-after-dinner-porto-y-madeira-4",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Blandy’s 10 yr Madeira “Bual”",
+        "price": "15.00",
+        "id": "spirits-after-dinner-porto-y-madeira-5",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Blandy’s 10 yr Madeira “Sercial”",
+        "price": "10.00",
+        "id": "spirits-after-dinner-porto-y-madeira-6",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      }
+    ]
+  },
+  {
+    "id": "spirits-after-dinner-co-ac-jerez-y-whisky",
+    "section": "dessert",
+    "category": "dessert",
+    "title": "After dinner · Coñac Jerez y whisky",
+    "note": "As listed on the dessert menu; some prices differ from the principal bar list.",
+    "source": "aioli-dessert-fall-2026-menu-p2.png",
+    "menu": "after-dinner",
+    "canonical": false,
+    "items": [
+      {
+        "name": "Vecchia Romagna Riserva Tre Botti",
+        "price": "10.00",
+        "id": "spirits-after-dinner-co-ac-jerez-y-whisky-1",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Pedro I Gran Reserva",
+        "price": "22.00",
+        "id": "spirits-after-dinner-co-ac-jerez-y-whisky-2",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Dewar’s White Label",
+        "price": "12.00",
+        "id": "spirits-after-dinner-co-ac-jerez-y-whisky-3",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Monkey Shoulder",
+        "price": "13.00",
+        "id": "spirits-after-dinner-co-ac-jerez-y-whisky-4",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Hibiki Japanese",
+        "price": "25.00",
+        "id": "spirits-after-dinner-co-ac-jerez-y-whisky-5",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Laphroaig 10",
+        "price": "18.00",
+        "id": "spirits-after-dinner-co-ac-jerez-y-whisky-6",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Springbank 10",
+        "price": "16.00",
+        "id": "spirits-after-dinner-co-ac-jerez-y-whisky-7",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Glenfarclas 10",
+        "price": "14.00",
+        "id": "spirits-after-dinner-co-ac-jerez-y-whisky-8",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Glenmorangie 12",
+        "price": "16.00",
+        "id": "spirits-after-dinner-co-ac-jerez-y-whisky-9",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Buchanan’s Deluxe 12",
+        "price": "12.00",
+        "id": "spirits-after-dinner-co-ac-jerez-y-whisky-10",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Dalmore 12",
+        "price": "15.00",
+        "id": "spirits-after-dinner-co-ac-jerez-y-whisky-11",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Highland Park 12",
+        "price": "15.00",
+        "id": "spirits-after-dinner-co-ac-jerez-y-whisky-12",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Macallan 12",
+        "price": "18.00",
+        "id": "spirits-after-dinner-co-ac-jerez-y-whisky-13",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Glenlivet 12",
+        "price": "15.00",
+        "id": "spirits-after-dinner-co-ac-jerez-y-whisky-14",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Lagavulin 16",
+        "price": "22.00",
+        "id": "spirits-after-dinner-co-ac-jerez-y-whisky-15",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
+      },
+      {
+        "name": "Johnnie Walker Blue Label",
+        "price": "44.00",
+        "id": "spirits-after-dinner-co-ac-jerez-y-whisky-16",
+        "description": "",
+        "source": "aioli-dessert-fall-2026-menu-p2.png"
       }
     ]
   }

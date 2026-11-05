@@ -29,6 +29,9 @@
     const groups = [...document.querySelectorAll('.menu-group')];
     const status = document.querySelector('#menu-status');
     const empty = document.querySelector('.empty-state');
+    const glass = document.querySelector('#by-glass');
+    const clear = document.querySelector('.clear-search');
+    const labels = {seasonal:['Seasonal','Chef Pablo’s selections'], lunch:['Lunch','Tapas, paella & more'], dessert:['Dessert','Sweet things & after dinner'], drinks:['Cocktails & beer','From the bar'], wine:['Wine','By the glass & bottle'], spirits:['Spirits','For the last glass'], all:['Everything','The complete food & drinks menu']};
     const normalize = value => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
     let category = 'seasonal';
     const apply = () => {
@@ -38,19 +41,25 @@
         let found = 0;
         const categoryMatches = category === 'all' || group.dataset.menuCategory === category;
         group.querySelectorAll('.dish').forEach(dish => {
-          dish.hidden = !(categoryMatches && normalize(dish.textContent).includes(query));
+          const text = group.querySelector('h3').textContent + ' ' + dish.textContent;
+          const glassMatches = category !== 'wine' || !glass.checked || dish.dataset.glass === 'true';
+          dish.hidden = !(categoryMatches && glassMatches && normalize(text).includes(query));
           if (!dish.hidden) found++;
         });
         group.hidden = found === 0;
         total += found;
       });
       filters.forEach(button => button.setAttribute('aria-pressed', String(button.dataset.category === category)));
-      status.textContent = total + (total === 1 ? ' item' : ' items') + (query ? ' matching “' + menuSearch.value.trim() + '”' : ' · Fall 2026');
+      document.querySelector('#category-title').textContent = labels[category][0];
+      document.querySelector('#category-kicker').textContent = labels[category][1];
+      document.querySelector('.glass-filter').hidden = category !== 'wine';
+      status.textContent = total + (total === 1 ? ' selection' : ' selections') + (query ? ' matching “' + menuSearch.value.trim() + '”' : ' · Fall 2026');
       empty.hidden = total !== 0;
+      clear.hidden = !query;
     };
     const fromHash = () => {
       const hash = location.hash.slice(1);
-      if (filters.some(button => button.dataset.category === hash)) category = hash;
+      if (labels[hash]) category = hash;
       apply();
     };
     filters.forEach(button => button.addEventListener('click', () => {
@@ -58,10 +67,18 @@
       history.replaceState(null, '', '#' + category);
       apply();
     }));
-    menuSearch.addEventListener('input', apply);
-    document.querySelector('.reset-menu').addEventListener('click', () => {
-      category = 'all'; menuSearch.value = ''; history.replaceState(null, '', '#all'); apply(); menuSearch.focus();
+    let previousQuery = '';
+    menuSearch.addEventListener('input', () => {
+      if (!previousQuery && menuSearch.value.trim()) { category = 'all'; history.replaceState(null, '', '#all'); }
+      previousQuery = menuSearch.value.trim();
+      apply();
     });
+    glass.addEventListener('change', apply);
+    clear.addEventListener('click', () => {menuSearch.value=''; previousQuery=''; apply(); menuSearch.focus();});
+    document.querySelector('.reset-menu').addEventListener('click', () => {
+      category = 'all'; menuSearch.value = ''; previousQuery=''; glass.checked = false; history.replaceState(null, '', '#all'); apply(); menuSearch.focus();
+    });
+    document.querySelector('.print-menu').addEventListener('click', () => window.print());
     addEventListener('hashchange', fromHash);
     fromHash();
   }

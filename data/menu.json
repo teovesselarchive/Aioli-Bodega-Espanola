@@ -1,0 +1,421 @@
+[
+  {
+    "category": "seasonal",
+    "title": "Chef Pablo’s seasonal selections",
+    "note": "Fall 2026",
+    "items": [
+      {
+        "name": "Ensalada de Tomate",
+        "price": "14.95",
+        "description": "Organic heirloom tomatoes, basil vinaigrette, goat cheese, dry black olives."
+      },
+      {
+        "name": "Ensalada Sandía",
+        "price": "14.95",
+        "description": "Fresh watermelon, goat cheese, pomegranate vinaigrette."
+      },
+      {
+        "name": "Palta Rellena",
+        "price": "12.95",
+        "description": "Stuffed avocados with bay shrimp and gravlax, honey citrus surprise."
+      },
+      {
+        "name": "Colas de Bruselas",
+        "price": "10.00",
+        "description": "Brussels sprouts, onions, balsamic reduction and toasted almonds."
+      },
+      {
+        "name": "Espárrago en Romesco",
+        "price": "12.95",
+        "description": "Organic grilled asparagus, roasted red bells, garlic, toasted almonds."
+      },
+      {
+        "name": "Croquetas al Gusto",
+        "price": "12.95",
+        "description": "Creamy fried fritters of béchamel with a choice of chorizo, mushroom or serrano ham."
+      },
+      {
+        "name": "Pinchitos Exquisitos · Lamb",
+        "price": "12.95",
+        "description": "Marinated and seared lamb brochette with paprika, mint and caraway."
+      },
+      {
+        "name": "Pinchitos Exquisitos · Shrimp",
+        "price": "12.95",
+        "description": "Marinated and seared shrimp brochette with bread croutons, mint and ginger."
+      },
+      {
+        "name": "Cazuelita de Marisco",
+        "price": "21.95",
+        "description": "Seafood medley, shrimp, scallops and cuttlefish, white beans, tomato and saffron fumet."
+      },
+      {
+        "name": "Risotto Piemontese",
+        "price": "49.95",
+        "description": "Creamy risotto with taleggio, grana padano and gorgonzola dolcelatte; seasonal mushrooms. Served for two."
+      },
+      {
+        "name": "Reda’s Pepper Steak",
+        "price": "49.95",
+        "description": "16 oz prime New York steak, red wine, demi and peppercorns, potato onion casserole."
+      },
+      {
+        "name": "Panna Cotta",
+        "price": "10.95",
+        "description": "Silky gelatin classic with sweetened cream and raspberry coulis."
+      }
+    ]
+  },
+  {
+    "category": "lunch",
+    "title": "Sopas y ensaladas",
+    "note": "",
+    "items": [
+      {
+        "name": "Sopa del Día",
+        "price": "Ask us",
+        "description": "Soup of the day, seasonal fruits."
+      },
+      {
+        "name": "Ensalada de Elsy",
+        "price": "12.95",
+        "description": "Arugula, celery, radicchio, cucumber, onion, black olives, citrus vinaigrette."
+      },
+      {
+        "name": "Ensalada con Pollo",
+        "price": "17.90",
+        "description": "Chicken, spinach, green beans, carrots, beets, potatoes, eggs, olives, house vinaigrette: EVOO, Dijon, sherry vinegar, onions, anchovies."
+      }
+    ]
+  },
+  {
+    "category": "lunch",
+    "title": "Bocadillos con pan coca",
+    "note": "On a grilled flatbread from Mallorca.",
+    "items": [
+      {
+        "name": "Bocadillo del Día",
+        "price": "Ask us",
+        "description": "Chef’s special bocadillo of the day, served with a rotating side."
+      }
+    ]
+  },
+  {
+    "category": "lunch",
+    "title": "Tapas frías",
+    "note": "",
+    "items": [
+      {
+        "name": "Tortilla Tres Colores",
+        "price": "6.95",
+        "description": "Spanish torte with egg, onion, potato, bell pepper and aioli."
+      },
+      {
+        "name": "Tartar",
+        "price": "Ask us",
+        "description": "Fish of the day, EVOO, red onions, capers, a touch of garlic, served with pan tostado and arugula."
+      },
+      {
+        "name": "Charcuterie y Queso Manchego",
+        "price": "14.95",
+        "description": "Pamplona and Soria chorizos, jamón serrano, cave-aged manchego and house-cured olives."
+      },
+      {
+        "name": "Pa amb Tomaquet",
+        "price": "6.95",
+        "description": "Catalan bruschetta with EVOO and tomato. With cured jamón serrano: 12.95."
+      }
+    ]
+  },
+  {
+    "category": "lunch",
+    "title": "Tapas calientes",
+    "note": "",
+    "items": [
+      {
+        "name": "Mejillones Aioli",
+        "price": "21.95",
+        "description": "Mediterranean mussels, garlic, sherry, cream."
+      },
+      {
+        "name": "Pulpo a la Gallega",
+        "price": "16.95",
+        "description": "Octopus in an adobo marinade, scalloped potatoes with pimentón."
+      },
+      {
+        "name": "Gambas Ajillo",
+        "price": "14.95",
+        "description": "Shrimp, garlic and white wine sauce."
+      },
+      {
+        "name": "Gambas a la Parrilla",
+        "price": "14.95",
+        "description": "Grilled shrimp in a citrus and cumin avocado salsa fresca."
+      },
+      {
+        "name": "Salmón Alcaparado",
+        "price": "12.95",
+        "description": "Salmon, white wine, garlic, capers, citrus, mustard."
+      },
+      {
+        "name": "Portobello de la Moda",
+        "price": "12.95",
+        "description": "Portobello mushroom marinated in red wine vinegar, then grilled, topped with goat cheese and EVOO."
+      },
+      {
+        "name": "Patatas Bravas",
+        "price": "8.95",
+        "description": "Roasted potatoes in a spicy tomato sauce with garlic aioli."
+      },
+      {
+        "name": "Pinchos Morunos",
+        "price": "12.50",
+        "description": "Grilled leg of lamb skewers in a red wine bell pepper sauce."
+      },
+      {
+        "name": "Chorizo al Ajoarriero",
+        "price": "12.95",
+        "description": "Grilled chorizo, white beans, Swiss chard."
+      }
+    ]
+  },
+  {
+    "category": "lunch",
+    "title": "Pastas",
+    "note": "",
+    "items": [
+      {
+        "name": "Ravioles Caseros",
+        "price": "21.95",
+        "description": "Housemade ravioli stuffed with herbs and fontina cheese, in a shiitake mushroom sauce."
+      },
+      {
+        "name": "Pasta Amatriciana",
+        "price": "20.95",
+        "description": "Bucatini in a pancetta tomato sauce, grana padano and bread crumbs."
+      },
+      {
+        "name": "Linguine al Limone",
+        "price": "21.95",
+        "description": "Linguine pasta in a citrus herb butter sauce."
+      }
+    ]
+  },
+  {
+    "category": "lunch",
+    "title": "Las raciones",
+    "note": "",
+    "items": [
+      {
+        "name": "Zarzuela de Mariscos",
+        "price": "32.95",
+        "description": "Opera of seafood in a lightly tomato broth; pan tostado."
+      },
+      {
+        "name": "Paillard de Pollo",
+        "price": "22.95",
+        "description": "Grilled pounded chicken breast marinated in citrus, served with patatas bravas."
+      },
+      {
+        "name": "Parrillada Mixta",
+        "price": "34.95",
+        "description": "Grilled chorizo, chicken, two lamb chops, pisto manchego. Two additional chops: 17.95."
+      },
+      {
+        "name": "Bisteca Costeña",
+        "price": "49.95",
+        "description": "Prime rib-eye finished in a red wine reduction, blue cheese."
+      }
+    ]
+  },
+  {
+    "category": "lunch",
+    "title": "Las paellas",
+    "note": "Made to share, for two people. Please allow 45 minutes to prepare.",
+    "items": [
+      {
+        "name": "Paella Barcelonetta",
+        "price": "60.00",
+        "description": "Squid ink rice, heads-on shrimp, bay scallops, cuttlefish sofrito."
+      },
+      {
+        "name": "Paella Valenciana",
+        "price": "49.95",
+        "description": "Saffron rice, shrimp, mussels, calamari, chicken thighs, pork spareribs."
+      },
+      {
+        "name": "Paella de Hongos",
+        "price": "28.95",
+        "description": "Saffron rice, shiitake and button mushrooms, grated grana padano."
+      },
+      {
+        "name": "Paella Vegetariana",
+        "price": "26.95",
+        "description": "Saffron rice and seasonal vegetables."
+      }
+    ]
+  },
+  {
+    "category": "lunch",
+    "title": "Menu del almuerzo",
+    "note": "",
+    "items": [
+      {
+        "name": "Lunch set",
+        "price": "24.00",
+        "description": "Starts with soup and ends with dessert. Choose a main course: fish, pasta or stew."
+      }
+    ]
+  },
+  {
+    "category": "dessert",
+    "title": "Postres",
+    "note": "",
+    "items": [
+      {
+        "name": "Crema Catalana con Naranja",
+        "price": "8.00",
+        "description": "Classic orange flower crème brûlée."
+      },
+      {
+        "name": "Pastel Almendras",
+        "price": "8.00",
+        "description": "Almond cake with honey and orange flower water."
+      },
+      {
+        "name": "Delicia de Frambuesa",
+        "price": "10.95",
+        "description": "Chocolate raspberry cake with fresh raspberries."
+      },
+      {
+        "name": "Chocolate con Acento Francés",
+        "price": "8.00",
+        "description": "Chocolate mousse and berries."
+      },
+      {
+        "name": "Arroz con Leche",
+        "price": "9.00",
+        "description": "Rice pudding with vanilla, finished with caramelized sugar."
+      },
+      {
+        "name": "Pastel de Chocolate",
+        "price": "8.00",
+        "description": "Flourless chocolate lava cake, crème anglaise with mint."
+      },
+      {
+        "name": "Panna Cotta",
+        "price": "10.95",
+        "description": "Silky gelatin classic with sweetened cream and raspberry coulis."
+      },
+      {
+        "name": "Flan",
+        "price": "8.00",
+        "description": "Crème caramel."
+      },
+      {
+        "name": "Marscapone Limon Mousse",
+        "price": "12.00",
+        "description": "A dash of limoncello topped with a fresh iced amaretti."
+      }
+    ]
+  },
+  {
+    "category": "dessert",
+    "title": "Café",
+    "note": "",
+    "items": [
+      {
+        "name": "Coffee",
+        "price": "4.00",
+        "description": ""
+      },
+      {
+        "name": "Espresso",
+        "price": "4.00",
+        "description": ""
+      },
+      {
+        "name": "Cappuccino",
+        "price": "6.00",
+        "description": ""
+      },
+      {
+        "name": "Latte",
+        "price": "6.00",
+        "description": ""
+      },
+      {
+        "name": "Mocha",
+        "price": "6.00",
+        "description": ""
+      },
+      {
+        "name": "Tea",
+        "price": "4.00",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "category": "drinks",
+    "title": "Cócteles",
+    "note": "Explore the full wine, beer, spirits and after-dinner selection in the original menus below.",
+    "items": [
+      {
+        "name": "Honey Badger",
+        "price": "14.00",
+        "description": "Vodka, lemon, honey, St-Germain, lavender bitters, up, lemon zest."
+      },
+      {
+        "name": "Chambery Martini",
+        "price": "16.00",
+        "description": "Vodka, chamberyzette, up, lemon expression."
+      },
+      {
+        "name": "Self Care",
+        "price": "17.00",
+        "description": "Gin, strawberry-balsamic shrub, lemon, honey, saline, up, lemon zest."
+      },
+      {
+        "name": "Beetroot Sour",
+        "price": "17.00",
+        "description": "Gin, beet basil syrup, egg white, lemon, honey, up, fresh basil leaf."
+      },
+      {
+        "name": "Rosé Negroni",
+        "price": "17.00",
+        "description": "Botanical gin, Bonanto aperitivo, rosé vermouth, over, grapefruit zest."
+      },
+      {
+        "name": "Sailor’s Delight",
+        "price": "17.00",
+        "description": "Oleo rum, Plantation pineapple rum, Bonanto, lemon, Banane du Brésil, brown sugar, Angostura bitters, over, maraschino cherry."
+      },
+      {
+        "name": "Puertas al Infierno",
+        "price": "16.00",
+        "description": "Jalapeño-infused tequila, lemon, pineapple, jalapeño agave lime syrup, over, cucumber and Aleppo pepper."
+      },
+      {
+        "name": "La Sombra Negra",
+        "price": "17.00",
+        "description": "Tequila, mezcal, lime, peach liqueur, squid-ink syrup, firewater bitters, over, black salt rim, lime wheel."
+      },
+      {
+        "name": "Smoke It Up",
+        "price": "15.00",
+        "description": "Mezcal, tequila, lime, honey, crème de violette, salt, pinot noir float, over, lime zest."
+      },
+      {
+        "name": "Bamboo & Tonic",
+        "price": "14.00",
+        "description": "Dry sherry, dry vermouth, tonic, over, Manzanilla olive."
+      },
+      {
+        "name": "White Coco",
+        "price": "18.00",
+        "description": "Bourbon, dark rum, lime, cherry black vanilla bitters, coconut cream, over, dried tea leaves, sesame seeds."
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 # Aioli Bodega Española
 
-Vessel Archive’s restaurant redesign: a bold Spanish bodega identity and a complete, functioning food and drinks menu. Uses Aioli’s real logo, food/room photography, seven Fall 2026 menu sheets and verified OpenTable destination.
+Vessel Archive’s restaurant redesign: a bold Spanish bodega identity grounded in Aioli’s real Sacramento interiors and a complete, functioning food and drinks menu. Uses Aioli’s real logo, food/room photography, seven Fall 2026 menu sheets and verified OpenTable destination.
 
 ## Run locally
 
@@ -24,9 +24,9 @@ menu_data.py validates the data; it does not overwrite it. build.py uses Python�
 
 ## Pages and interactions
 
-- Home: original Aioli masthead/ceramic composition, real dishes, six menu paths and visiting information.
+- Home: original Aioli masthead/ceramic composition, the restaurant’s vine-covered patio, real dishes, six menu paths and visiting information.
 - Menu: 343 sheet-specific entries in 52 groups, six primary sections, two food options, live accent-insensitive search, category narrowing, glass/bottle prices, by-the-glass filter, clear/empty states, URL category links print selection and a persistent mobile Menu sections control.
-- Bodega: all ten original photos, keyboard-accessible gallery, previous/next, Escape and focus restoration.
+- Bodega: all eleven original photos, keyboard-accessible gallery, previous/next, Escape and focus restoration.
 - Visit: real OpenTable booking link, hours, telephone, directions and sister venues.
 - Custom 404 page.
 
@@ -44,4 +44,4 @@ The demo remains noindex/nofollow and robots.txt disallows indexing. Restaurant 
 
 OpenTable restaurant ID 58273 was verified against the live source widget and booking destination. Reservations happen on OpenTable; this demo does not submit a booking. Phone, directions, social and sister-venue links are real. No invented contact form, checkout, testimonials, awards or backend. Original materials remain their owners’ property.
 
-See DESIGN.md, QA.md, docs/award-research.md and docs/menu-transcription.md for rationale, checks and source discrepancies.
+See DESIGN.md, QA.md, docs/award-research.md, docs/interior-research.md and docs/menu-transcription.md for rationale, checks and source discrepancies.

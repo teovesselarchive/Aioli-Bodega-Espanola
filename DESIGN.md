@@ -1,28 +1,34 @@
-# Aioli — a Spanish bodega poster
+# Aioli — the room becomes the website
 
-The second design replaces the quiet, pale split-hero treatment with a confident restaurant identity. A large AIOLI masthead dominates the opening; its O holds a photographic glimpse of the restaurant’s own painted ceramic vessel. The authentic logo remains in the header. Wine-red ink, warm paper and deliberate cobalt details connect bold lettering, real food photography and practical menu navigation.
+The design takes its palette, materials and photography from Aioli Bodega Española at 1800 L Street, Sacramento. The muted purple ceiling, hammered copper, terracotta plaster and wine racks, amber window glass, cream table coverings, dark wood and vine-covered patio give the restaurant its identity.
 
-Bricolage Grotesque supplies the masthead and expressive short statements. Barlow Condensed supplies the menu-signage voice. Bodoni Moda is reserved for a few conversational phrases and course headings; DM Sans handles information. The typography, editorial rhythm, ceramic detail and palette are specific to Aioli, rather than copied from Café X or Elite Dance Floors.
+The bold Aioli masthead and clear menu structure remain. The homepage now leads with the restaurant’s actual courtyard, recovered from its official media library. Its ceramic pitcher stays inside the O; copper-colored framing, a small original mosaic border and warm clay sections connect the graphic composition to the physical space. The photography remains natural and unmodified apart from responsive resizing/encoding and CSS display crops.
 
-Palette: paper #f2ead9; ink #651b2c; dark #421522; cobalt #254bd9; secondary text #7c5960. Cobalt marks actions, the current menu selection, focus, a short ceramic-style dividing rule and the bodega feature. There are no theme switches, decorative arrows or invented X marks.
+## Research and direct evidence
 
-The homepage moves from the large name and paella into conversational typography, an immersive grill photograph, a bilingual menu index, a cobalt room-detail composition, visiting information and the oversized Nos vemos sign-off. The menu itself uses a compact photographic cover, sticky desktop category index, strong course hierarchy and readable price rows. Mobile gets a smaller masthead, a dedicated food crop, a two-row category control, stacked menu text and persistent reservation access. Motion is limited to subtle hover transitions and smooth anchor navigation; reduced motion disables both.
+Google Images was used to inspect the Sacramento bar and dining-room views. The dark-purple ceiling, copper counter, mosaic front and honey-toned shelving visible in a Yelp image were checked against Aioli’s own chandelier, ceramic and wine-storage photos. The small GAYOT dining-room image explicitly credits Aioli Bodega Espanola and is linked to 1800 L Street; it supports the amber glass, plaster, wood and table-covering observations but was not enlarged into a hero.
 
-## Research
+All 116 public WordPress media entries were checked. This recovered the canonical 1024×681 courtyard photo, aioli-atmo-01a.jpeg, uploaded in March 2021. The original is preserved, its source is recorded, and responsive WebPs are included. The official wine-storage photo shows terracotta ceramic blocks, and its descriptions have been corrected accordingly. There are now eleven restaurant photos in the gallery.
 
-The first pass studied 7 Portes, El Amigo and Jupiter. This pass added six verified award references and visually inspected their awarded archives, with live menu inspection where available. See docs/award-research.md for exact distinctions, dates, observations and limitations.
+See docs/interior-research.md for exact sources, dimensions, branch checks and observed materials. These are visual interpretations rather than measured paint specifications. Some original photographs are from 2021; no assertion of a new photo shoot or current capture date is made.
 
-- Genesis — CSSDA Website of the Day, September 17, 2018: a singular graphic world and confident identity.
-- VÖLLEREI — CSSDA Website of the Day, December 10, 2017: actual culinary objects as composition.
-- Locanda Margon — CSSDA Website of the Day, January 7, 2019: unusual photographic rhythm and hospitality details.
-- Burrito Madre — CSSDA Special Kudos, June 30, 2026: assertive type and functional menu categories.
-- 1NUL8 — CSSDA Special Kudos, April 25, 2023: real room character and photographic scale.
-- Overseas — CSSDA Special Kudos, February 16, 2023: a controlled color system with a specific identity.
+## Visual system
 
-No reference-site assets, marks, illustrations, copy or layouts were copied. All restaurant photography and the logo are Aioli’s original assets. The decorative O uses CSS cropping of an unmodified source photo.
+- Muted plum #44364e: the ceiling and deeper room atmosphere.
+- Warm paper #eadfc8: table coverings and readable menu surfaces.
+- Terracotta #b77c58 and copper #9b613f: plaster, metalwork and wine storage.
+- Amber #d4a344: primary actions and selected menu categories.
+- Leaf green #45533e: a restrained reference to the courtyard canopy.
+- Dark brown #3e2d2b: text and the room’s dark furniture.
 
-## Functional menu
+Bricolage Grotesque supplies expressive statements and the large masthead; Barlow Condensed supplies clear menu signage; Bodoni Moda supplies selected phrases/course headings; DM Sans handles information. All fonts are local and licensed. The original Aioli mark remains intact.
 
-All seven sheets are transcribed into 52 groups with 343 sheet-specific entries and two food options. Six primary sections: seasonal, lunch, dessert, cocktails/beer, wine and spirits. Starting a new search searches the full menu; category buttons can then narrow the results. Search is accent-insensitive and includes category titles, dish descriptions, grape, region and vintage. Wine has explicit glass/bottle prices and a by-the-glass filter. The selected category persists in the URL hash. Empty results recover to the full menu. Print uses the current selection.
+The small mosaic SVG is original geometry inspired by the restaurant’s broken-tile surfaces. No third-party interior photos or illustrations are presented as restaurant-owned assets. No theme switches, decorative arrows, invented marks or dietary guarantees are added. Hover transitions remain restrained and reduced-motion CSS disables transitions and smooth scrolling.
 
-The original sheets remain one click away. Source-specific versions remain separate where published prices or ingredients disagree. Three unreadable or absent wine prices show Ask your server; no zero or inferred amount is displayed. No vegan/allergen guarantees are inferred from inconsistent printed markers. The full content is present as HTML without JavaScript.
+## Menu and interaction
+
+All seven sheets remain transcribed into 52 groups with 343 sheet-specific entries and two food options. Six primary sections: seasonal, lunch, dessert, cocktails/beer, wine and spirits. New searches begin across the full menu; category buttons narrow results. Search includes names, ingredients, grapes, regions and vintages and ignores accents. Wine has glass/bottle pricing and a by-the-glass filter. Category links work through URL hashes; empty results reset to the full menu; printing preserves the current selection. Mobile keeps a persistent Menu sections control beside Book a table.
+
+Three unreadable or absent bottle prices display Ask your server. Source-specific price/ingredient variants remain separate. The originals remain available and the whole menu is HTML-readable without JavaScript.
+
+The earlier award-site research remains in docs/award-research.md as a record of compositional principles. The client’s own room and imagery determine this version’s final aesthetic.

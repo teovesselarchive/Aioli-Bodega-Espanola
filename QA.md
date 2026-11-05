@@ -1,15 +1,14 @@
-# Verification — second design
+# Verification — Aioli interior direction
 
-Checked November 4, 2026.
+Checked November 5, 2026.
 
-- Four primary pages checked at 320, 390, 768, 1024 and 1440px: no document horizontal overflow. One h1 per page. The full 343-item selection also has no overflow at 320px. All loaded source images resolved. The closed lightbox intentionally has an empty image until opened.
-- Desktop/mobile visual review of the full homepage and menu. Increased menu reading sizes; corrected the ceramic crop inside the O; strengthened contrast over the grill photograph and focus indicators on colored sections.
-- All 343 HTML menu entries match the validated data. All 52 groups have source-sheet mappings; all item IDs are unique. Seven original menu sheets retained. Both food options render with their correct total/additional pricing.
-- Category, search and wine filtering tested in the browser: wine 123 selections; by-the-glass 15; paella search returns four lunch paellas; impossible query shows empty state; reset restores 343 selections. Search includes group titles, ingredients, grape, region and vintage and ignores accents. Direct category hashes work.
-- A persistent mobile Menu sections control returns directly from long lists to the category controls. Mobile navigation opens, Escape closes it and focus returns to the Menu button. Gallery next changes 1/10 to 2/10; ArrowLeft returns to 1/10; Escape closes the dialog and restores focus to the originating link. No console errors in the tested browser session.
-- Static checks pass: 133 local references across five pages, no duplicate IDs, original menu files present, noindex metadata and root/dist HTML/CSS/JS/data parity. Browser JavaScript loaded and ran without parse errors. Core content and links are in HTML without JavaScript; controls hide in the no-script fallback.
-- Print stylesheet preserves the current selection and removes site navigation. Reduced-motion CSS disables animation/transitions and smooth scrolling. No automated accessibility certification or performance score is claimed.
-- Responsive WebP variants, explicit image dimensions, eager hero and lazy lower-page images, self-hosted fonts. No trackers or external runtime dependencies.
-- OpenTable destination remains restaurant ID 58273, verified in the first pass. No reservation submitted.
+- Home, menu, bodega and visit pages checked at 320, 390, 768, 1024 and 1440px: no horizontal document overflow or broken loaded images. The complete 343-item menu also fits at 320px.
+- Reviewed desktop and mobile composition against the actual Sacramento interior research. Checked plum/amber contrast, clay-section text, copper photo frames, mosaic border and the original courtyard crop. Adjusted the phone hero spacing to keep its menu action clear of the fixed reservation bar.
+- New courtyard original preserved at 1024×681; responsive 480/960/1024 WebP variants generated without upscaling. All other originals remain. The gallery now has eleven real restaurant photos. First photo is the patio; Next advances 1/11 to 2/11; Escape closes the dialog. Existing keyboard navigation and focus restoration remain in place.
+- Menu behavior checked in browser: wine by the glass returns 15 selections; paella search returns four; clearing restores all 343. Menu data and all printed-sheet variants are unchanged. Both food options remain visible. Three unclear/missing bottle prices still say Ask your server.
+- Calculated contrast: dark text on amber action 6.30:1; secondary text on paper 4.87:1; paper on plum 8.44:1; copper link text on paper 4.98:1. Clay-section body text was darkened to meet 4.5:1. Large plum headings on clay exceed 3:1. Visible focus and reduced-motion overrides remain.
+- Static verification passes: 135 local references across five pages, no duplicate IDs, seven original menu sheets, root/dist HTML/CSS/JS/data parity. The decorative mosaic SVG exists and renders through CSS. Browser console contained no errors in the checked session.
+- All homepage images were loaded before final desktop/mobile screenshots. Locally served licensed fonts and responsive photos; no new external runtime dependencies.
+- Existing menu-section jump, mobile navigation, print selection and OpenTable restaurant ID 58273 remain. No reservation submitted.
 
-Source limitations are explicit in docs/menu-transcription.md: three prices absent or illegible display Ask your server; menu-specific price/ingredient variants are preserved; homepage opening times are used where print sheets disagree. Dietary labels are not inferred from inconsistent source markers.
+The image library includes older original photography; upload dates are documented and no current photo shoot is claimed. Source-price/hour discrepancies are detailed in docs/menu-transcription.md. No automated accessibility certification or performance score is claimed.
